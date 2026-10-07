@@ -16,5 +16,17 @@
   ],
   "categories": ["productivity", "utilities", "education"],
   "lang": "en",
-  "scope": "/"
+  "scope": "/",
+  "localizedName": {
+    "en": "Go LANA — Free Online Tools",
+    "pt": "Go LANA — Ferramentas Online Grátis",
+    "es": "Go LANA — Herramientas Online Gratis",
+    "de": "Go LANA — Kostenlose Online-Werkzeuge"
+  },
+  "localizedDescription": {
+    "en": "Free online tools, calculators, converters, games, and printables that run entirely in your browser.",
+    "pt": "Ferramentas online grátis, calculadoras, conversores, jogos e imprimíveis que rodam inteiramente no seu navegador.",
+    "es": "Herramientas online gratis, calculadoras, conversores, juegos e imprimibles que funcionan completamente en tu navegador.",
+    "de": "Kostenlose Online-Werkzeuge, Rechner, Konverter, Spiele und Druckvorlagen, die vollständig in deinem Browser laufen."
+  }
 }

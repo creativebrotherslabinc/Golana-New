@@ -2,6 +2,8 @@
 
 > Golana.online provides free, browser-based tools for PDF editing, document conversion, calculators, media editing, developer utilities, games, WhatsApp business, HR, marketing, education, health, and more. All tools run entirely in the browser with no installation required.
 
+> Available languages: English (en), Português (pt), Español (es), Deutsch (de). Use ?lang=<code> for localized versions.
+
 
 ## PDF & Document Tools
 
@@ -41,6 +43,30 @@
 - [PDF Compare](https://golana.online/tool/pdf-compare): Compare two PDFs side-by-side and highlight differences.
 - [PDF Repair Tool](https://golana.online/tool/pdf-repair): Attempt to recover corrupted or damaged PDF files.
 - [Camera Scanner](https://golana.online/tool/camera-scanner-pdf): Scan documents with your camera and save as a PDF — all in your browser.
+- [Text Cleaner](https://golana.online/tool/text-cleaner): Remove spaces, duplicates, and clean up text.
+- [Text Case Converter](https://golana.online/tool/text-case): Change text capitalization styles.
+- [Word Counter](https://golana.online/tool/word-counter): Count words, characters, sentences.
+- [Text Encryption Tool](https://golana.online/tool/text-encryption): Encrypt and decrypt text with a key.
+- [HTML Escape/Unescape Tool](https://golana.online/tool/html-escape-unescape): Escape or unescape HTML entities.
+- [URL Encoder/Decoder](https://golana.online/tool/url-encoder-decoder): Encode and decode URL strings.
+- [Slug Generator](https://golana.online/tool/slug-generator): Create URL-friendly slugs from text.
+- [Text Sorter](https://golana.online/tool/text-sorter): Sort lines alphabetically or by length.
+- [Duplicate Line Remover](https://golana.online/tool/duplicate-line-remover): Remove duplicate lines from text.
+- [Text Case Converter](https://golana.online/tool/text-case-converter): Convert text to UPPERCASE, lowercase, Title Case, camelCase, snake_case, and more.
+- [Text Statistics Analyzer](https://golana.online/tool/text-statistics): Analyze word count, character count, sentences, paragraphs, and reading time.
+- [Text Splitter](https://golana.online/tool/text-splitter): Split text by a delimiter into separate lines or items.
+- [Text Joiner](https://golana.online/tool/text-joiner): Join multiple lines or items with a custom delimiter.
+- [Text Replacer](https://golana.online/tool/text-replacer): Find and replace text with optional case-sensitive matching.
+- [Text Encrypt/Decrypt](https://golana.online/tool/text-encrypt): Encrypt and decrypt text using AES-GCM with a password.
+- [Text Obfuscator](https://golana.online/tool/text-obfuscator): Obfuscate and deobfuscate text using Base64 encoding.
+- [ROT13 Encoder/Decoder](https://golana.online/tool/rot13): Encode and decode text using the ROT13 cipher.
+- [Text Reverse Tool](https://golana.online/tool/text-reverse): Reverse text character by character or line by line.
+- [Line Numbering Tool](https://golana.online/tool/line-numbering): Add sequential line numbers to any text.
+- [Text Deduper Pro](https://golana.online/tool/text-deduper-pro): Advanced duplicate remover with case and trim options.
+- [Text Randomizer](https://golana.online/tool/text-randomizer): Randomize and shuffle lines of text.
+- [CSV Chart Builder](https://golana.online/tool/csv-chart-builder): Create bar, line, and pie charts from CSV data.
+- [Grammar Checker](https://golana.online/tool/grammar-checker): Check text for common grammar and spelling issues.
+- [Plagiarism Checker](https://golana.online/tool/plagiarism-checker): Compare two texts for matching phrases and similarity.
 
 ## Media Tools
 
@@ -73,7 +99,7 @@
 - [Audio Equalizer](https://golana.online/tool/audio-equalizer): Adjust audio frequencies with a 5-band EQ.
 - [Video Speed Changer](https://golana.online/tool/video-speed-changer): Speed up or slow down video playback.
 
-## Calculators & Finance Tools
+## Finance, Planning & Everyday Utilities Tools
 
 - [Mortgage Calculator](https://golana.online/tool/mortgage): Estimate monthly mortgage payments.
 - [Loan Calculator](https://golana.online/tool/loan): Calculate loan payments and interest.
@@ -93,9 +119,6 @@
 - [Hourly Salary Converter](https://golana.online/tool/hourly-salary): Convert an hourly wage into annual, monthly, and weekly pay.
 - [Car Loan Affordability Calculator](https://golana.online/tool/car-loan-affordability): Estimate car loan payments and inflation-adjusted price.
 - [GPA Calculator](https://golana.online/tool/gpa-calculator): Calculate weighted grade point average by course credits.
-
-## Everyday Utilities
-
 - [QR Code Generator](https://golana.online/tool/qr-generator): Make QR codes for any text or link.
 - [Password Generator](https://golana.online/tool/password-generator): Create strong random passwords.
 - [Unit Converter](https://golana.online/tool/unit-converter): Convert length, weight, temp and more.
@@ -110,6 +133,15 @@
 - [Text Similarity Checker](https://golana.online/tool/text-similarity-checker): Compare two texts using TF-IDF and cosine similarity.
 - [Image EXIF Viewer](https://golana.online/tool/image-exif-viewer): Read EXIF metadata from photos and download cleaned images.
 - [Barcode Generator](https://golana.online/tool/barcode-generator): Generate EAN-13, UPC-A, and Code128 barcodes as PNG or SVG.
+- [World Clock](https://golana.online/tool/world-clock): See times across major cities.
+- [Stopwatch](https://golana.online/tool/stopwatch): Time any interval precisely.
+- [Countdown Generator](https://golana.online/tool/countdown): Count down to any date.
+- [Cooking Timer](https://golana.online/tool/cooking-timer): Kitchen timer with presets.
+- [Calendar Widget](https://golana.online/tool/calendar-widget): Browse months and pick dates.
+- [To-Do List](https://golana.online/tool/todo-list): Track tasks with local storage.
+- [Notes App](https://golana.online/tool/notes-app): Create and manage notes.
+- [Habit Tracker](https://golana.online/tool/habit-tracker): Build daily habits with streaks.
+- [Session Timer](https://golana.online/tool/session-timer): Track time spent on tasks.
 
 ## AI Mini Tools
 
@@ -126,6 +158,9 @@
 - [Truth or Dare Generator](https://golana.online/tool/truth-or-dare): Get a random truth or dare.
 - [Business Name Generator](https://golana.online/tool/business-name-generator): Generate creative business names.
 - [Tagline Generator](https://golana.online/tool/tagline-generator): Create catchy brand taglines.
+- [Tweet Generator](https://golana.online/tool/tweet-generator): Generate engaging tweets on any topic.
+- [Product Description Generator](https://golana.online/tool/product-description-generator): Create compelling product descriptions.
+- [Text Rewriter](https://golana.online/tool/text-rewriter): Rewrite text in simplify, academic, or persuasive styles.
 
 ## Developer Tools
 
@@ -145,18 +180,6 @@
 - [CSV Viewer](https://golana.online/tool/csv-viewer): View and sort CSV data in a table.
 - [IP Lookup](https://golana.online/tool/ip-lookup): Look up geolocation data for any IP.
 - [Visitor Counter](https://golana.online/tool/visitor-counter): Track page visits in local storage.
-
-## Time & Planning Tools
-
-- [World Clock](https://golana.online/tool/world-clock): See times across major cities.
-- [Stopwatch](https://golana.online/tool/stopwatch): Time any interval precisely.
-- [Countdown Generator](https://golana.online/tool/countdown): Count down to any date.
-- [Cooking Timer](https://golana.online/tool/cooking-timer): Kitchen timer with presets.
-- [Calendar Widget](https://golana.online/tool/calendar-widget): Browse months and pick dates.
-- [To-Do List](https://golana.online/tool/todo-list): Track tasks with local storage.
-- [Notes App](https://golana.online/tool/notes-app): Create and manage notes.
-- [Habit Tracker](https://golana.online/tool/habit-tracker): Build daily habits with streaks.
-- [Session Timer](https://golana.online/tool/session-timer): Track time spent on tasks.
 
 ## Games
 
@@ -200,6 +223,7 @@
 - [Color Match](https://golana.online/tool/color-match): Match the target color with sliders.
 - [Color Circuit](https://golana.online/tool/color-circuit): Connect matching colored nodes on a grid without crossing paths.
 - [Guess Game](https://golana.online/tool/golana-guess-game): A Heads-Up-style party guessing game with tilt controls, 9 categories, and 4 languages.
+- [Circuit Realms](https://golana.online/tool/circuit-realms): Connect energy sources to crystals by rotating path tiles. 30 levels across 3 difficulties, a shard reward system, and an in-game shop — all offline.
 
 ## WhatsApp Business Tools
 
@@ -217,17 +241,23 @@
 - [Customer Info Card Generator](https://golana.online/tool/wa-customer-card): Store customer details locally.
 - [WhatsApp Survey Generator](https://golana.online/tool/wa-survey): Create surveys to send on WhatsApp.
 - [Feedback Form → WhatsApp](https://golana.online/tool/wa-feedback): Collect and send feedback via WhatsApp.
+- [WhatsApp Auto-Reply Builder](https://golana.online/tool/wa-auto-reply): Create away and greeting auto-reply messages.
+- [WhatsApp Business Label Manager](https://golana.online/tool/wa-label-manager): Create and organize contact labels with colors.
+- [WhatsApp Sticker Text Generator](https://golana.online/tool/wa-sticker-text): Create text-based stickers as PNG images.
+- [WhatsApp vCard Contact Generator](https://golana.online/tool/wa-vcard): Generate vCard contact cards to share via WhatsApp.
+- [WhatsApp Chat to PDF](https://golana.online/tool/wa-chat-to-pdf): Export pasted chat text as a downloadable PDF.
+- [WhatsApp Message Scheduler](https://golana.online/tool/wa-scheduler): Schedule messages with reminders, stored locally.
+- [WhatsApp Chat Analyzer](https://golana.online/tool/wa-chat-analyzer): Analyze chat sentiment, keywords, and message count.
+- [WhatsApp Short Link + QR](https://golana.online/tool/wa-short-link-qr): Generate short links with QR codes for WhatsApp.
+- [WhatsApp Broadcast Scheduler](https://golana.online/tool/wa-broadcast-scheduler): Schedule broadcast messages to multiple contacts.
+- [WhatsApp FAQ Message Builder](https://golana.online/tool/wa-faq-builder): Build FAQ messages with Q&A pairs to send on WhatsApp.
+- [WhatsApp Receipt Builder](https://golana.online/tool/wa-receipt): Generate receipts with items, tax, and totals to send via WhatsApp.
+- [WhatsApp Event Invite Generator](https://golana.online/tool/wa-event-invite): Create event invitations with date, time, and location.
+- [WhatsApp Poll Builder](https://golana.online/tool/wa-poll): Create poll messages with lettered options for WhatsApp.
+- [WhatsApp Team Broadcast](https://golana.online/tool/wa-team-broadcast): Send broadcast messages to your team members.
+- [WhatsApp Price Quote Generator](https://golana.online/tool/wa-price-quote): Create professional price quotes with discounts to send via WhatsApp.
 
-## HR & Employee Tools
-
-- [Shift Schedule Generator](https://golana.online/tool/shift-schedule): Assign employees to shifts automatically.
-- [Employee Timesheet Generator](https://golana.online/tool/timesheet): Track hours and export timesheets.
-- [Work Hours Calculator](https://golana.online/tool/work-hours): Calculate daily and weekly work hours.
-- [Break Timer Tool](https://golana.online/tool/break-timer): Time your breaks with presets.
-- [Attendance Tracker](https://golana.online/tool/attendance-tracker): Track who showed up, late, or absent.
-- [Employee Onboarding Checklist](https://golana.online/tool/onboarding-checklist): Manage onboarding tasks for new hires.
-
-## Marketing & Web Tools
+## Marketing & Web Content Creation Tools
 
 - [Meta Tag Generator](https://golana.online/tool/meta-tag-generator): Generate SEO and Open Graph meta tags.
 - [Keyword Density Checker](https://golana.online/tool/keyword-density-checker): Analyze keyword frequency in content.
@@ -239,8 +269,15 @@
 - [URL Shortener](https://golana.online/tool/url-shortener): Shorten long URLs instantly.
 - [Simple Logo Maker](https://golana.online/tool/logo-maker): Design and export simple logos.
 - [Social Media Post Template Maker](https://golana.online/tool/social-post-template-maker): Create post templates for social platforms.
+- [Headline Generator](https://golana.online/tool/headline-generator): Generate catchy headlines from templates.
+- [Emoji Decorator](https://golana.online/tool/emoji-decorator): Add emojis to your text in various styles.
+- [Text Divider Generator](https://golana.online/tool/text-divider-generator): Create decorative text dividers.
+- [Social Bio Generator](https://golana.online/tool/social-bio-generator): Generate bios for social media profiles.
+- [Hashtag Generator](https://golana.online/tool/hashtag-generator): Generate relevant hashtags by category.
+- [List Formatter](https://golana.online/tool/list-formatter): Format and sort lists in multiple styles.
+- [Bullet Point Expander](https://golana.online/tool/bullet-point-expander): Expand bullet points into full text.
 
-## Education & Learning Tools
+## Education, Kids & Learning Tools
 
 - [Flashcard Creator](https://golana.online/tool/flashcard-creator): Create and study flashcard decks.
 - [Study Planner](https://golana.online/tool/study-planner): Plan and track your study tasks.
@@ -255,6 +292,17 @@
 - [Flashcard Auto-Generator](https://golana.online/tool/flashcard-auto-generator): Generate ready-to-study flashcard decks from built-in datasets.
 - [Equation Solver](https://golana.online/tool/equation-solver): Solve linear equations step by step.
 - [Chemical Equation Balancer](https://golana.online/tool/chemical-balancer): Balance chemical equations automatically.
+- [Chore Chart Generator](https://golana.online/tool/chore-chart-generator): Create chore charts for the week.
+- [Reward Points Tracker](https://golana.online/tool/reward-points-tracker): Track kid points and redeem rewards.
+- [Bedtime Routine Checklist](https://golana.online/tool/bedtime-routine-checklist): A visual bedtime routine checklist.
+- [Homework Planner](https://golana.online/tool/homework-planner): Track homework assignments by due date.
+- [Kids Drawing Pad](https://golana.online/tool/kids-drawing-pad): A canvas drawing pad for kids.
+- [Name Coloring Sheet Generator](https://golana.online/tool/name-coloring-sheet-generator): Generate printable name coloring sheets.
+- [Reward Chart Generator](https://golana.online/tool/reward-chart-generator): Create customizable weekly reward charts with icons and colors.
+- [Homework Timer](https://golana.online/tool/homework-timer): Focus timer with countdown, stopwatch, and break modes for study sessions.
+- [Kids Routine Planner](https://golana.online/tool/kids-routine-planner): Build drag-and-drop morning, afternoon, and bedtime routines.
+- [Kids Drawing Filter](https://golana.online/tool/kids-drawing-filter): Apply fun cartoon, rainbow, and neon filters to drawings.
+- [Daily Homework](https://golana.online/tool/daily-homework): A complete privacy-first, database-free daily homework platform for ages 5–12. Curriculum-aware, 19 countries, 4 languages, offline-ready, with streaks, badges, coins, and parent rewards.
 
 ## Health & Wellness Tools
 
@@ -265,44 +313,7 @@
 - [Meal Planner](https://golana.online/tool/meal-planner): Plan meals for the week ahead.
 - [Calorie Counter](https://golana.online/tool/calorie-counter): Log foods and track daily calories.
 
-## Content Creation Tools
-
-- [Headline Generator](https://golana.online/tool/headline-generator): Generate catchy headlines from templates.
-- [Emoji Decorator](https://golana.online/tool/emoji-decorator): Add emojis to your text in various styles.
-- [Text Divider Generator](https://golana.online/tool/text-divider-generator): Create decorative text dividers.
-- [Social Bio Generator](https://golana.online/tool/social-bio-generator): Generate bios for social media profiles.
-- [Hashtag Generator](https://golana.online/tool/hashtag-generator): Generate relevant hashtags by category.
-- [List Formatter](https://golana.online/tool/list-formatter): Format and sort lists in multiple styles.
-- [Bullet Point Expander](https://golana.online/tool/bullet-point-expander): Expand bullet points into full text.
-
-## File & Text Tools
-
-- [Text Cleaner](https://golana.online/tool/text-cleaner): Remove spaces, duplicates, and clean up text.
-- [Text Case Converter](https://golana.online/tool/text-case): Change text capitalization styles.
-- [Word Counter](https://golana.online/tool/word-counter): Count words, characters, sentences.
-- [Text Encryption Tool](https://golana.online/tool/text-encryption): Encrypt and decrypt text with a key.
-- [HTML Escape/Unescape Tool](https://golana.online/tool/html-escape-unescape): Escape or unescape HTML entities.
-- [URL Encoder/Decoder](https://golana.online/tool/url-encoder-decoder): Encode and decode URL strings.
-- [Slug Generator](https://golana.online/tool/slug-generator): Create URL-friendly slugs from text.
-- [Text Sorter](https://golana.online/tool/text-sorter): Sort lines alphabetically or by length.
-- [Duplicate Line Remover](https://golana.online/tool/duplicate-line-remover): Remove duplicate lines from text.
-- [Text Case Converter](https://golana.online/tool/text-case-converter): Convert text to UPPERCASE, lowercase, Title Case, camelCase, snake_case, and more.
-- [Text Statistics Analyzer](https://golana.online/tool/text-statistics): Analyze word count, character count, sentences, paragraphs, and reading time.
-- [Text Splitter](https://golana.online/tool/text-splitter): Split text by a delimiter into separate lines or items.
-- [Text Joiner](https://golana.online/tool/text-joiner): Join multiple lines or items with a custom delimiter.
-- [Text Replacer](https://golana.online/tool/text-replacer): Find and replace text with optional case-sensitive matching.
-- [Text Encrypt/Decrypt](https://golana.online/tool/text-encrypt): Encrypt and decrypt text using AES-GCM with a password.
-- [Text Obfuscator](https://golana.online/tool/text-obfuscator): Obfuscate and deobfuscate text using Base64 encoding.
-- [ROT13 Encoder/Decoder](https://golana.online/tool/rot13): Encode and decode text using the ROT13 cipher.
-- [Text Reverse Tool](https://golana.online/tool/text-reverse): Reverse text character by character or line by line.
-- [Line Numbering Tool](https://golana.online/tool/line-numbering): Add sequential line numbers to any text.
-- [Text Deduper Pro](https://golana.online/tool/text-deduper-pro): Advanced duplicate remover with case and trim options.
-- [Text Randomizer](https://golana.online/tool/text-randomizer): Randomize and shuffle lines of text.
-- [CSV Chart Builder](https://golana.online/tool/csv-chart-builder): Create bar, line, and pie charts from CSV data.
-- [Grammar Checker](https://golana.online/tool/grammar-checker): Check text for common grammar and spelling issues.
-- [Plagiarism Checker](https://golana.online/tool/plagiarism-checker): Compare two texts for matching phrases and similarity.
-
-## Business Operations Tools
+## Business Ops, HR & Employee Tools
 
 - [Inventory List Manager](https://golana.online/tool/inventory-manager): Track stock levels and item values.
 - [Simple CRM](https://golana.online/tool/simple-crm): Manage contacts and customer relationships.
@@ -319,20 +330,12 @@
 - [Inventory Forecast](https://golana.online/tool/inventory-forecast): Project stock depletion and recommended reorder quantities.
 - [Profit Projection Tool](https://golana.online/tool/profit-projection-tool): Project revenue, costs, margins, and business profit.
 - [Business KPI Visualizer](https://golana.online/tool/business-kpi-visualizer): Visualize revenue, expenses, conversion, retention, and margins.
-
-## Kids & Family Tools
-
-- [Chore Chart Generator](https://golana.online/tool/chore-chart-generator): Create chore charts for the week.
-- [Reward Points Tracker](https://golana.online/tool/reward-points-tracker): Track kid points and redeem rewards.
-- [Bedtime Routine Checklist](https://golana.online/tool/bedtime-routine-checklist): A visual bedtime routine checklist.
-- [Homework Planner](https://golana.online/tool/homework-planner): Track homework assignments by due date.
-- [Kids Drawing Pad](https://golana.online/tool/kids-drawing-pad): A canvas drawing pad for kids.
-- [Name Coloring Sheet Generator](https://golana.online/tool/name-coloring-sheet-generator): Generate printable name coloring sheets.
-- [Reward Chart Generator](https://golana.online/tool/reward-chart-generator): Create customizable weekly reward charts with icons and colors.
-- [Homework Timer](https://golana.online/tool/homework-timer): Focus timer with countdown, stopwatch, and break modes for study sessions.
-- [Kids Routine Planner](https://golana.online/tool/kids-routine-planner): Build drag-and-drop morning, afternoon, and bedtime routines.
-- [Kids Drawing Filter](https://golana.online/tool/kids-drawing-filter): Apply fun cartoon, rainbow, and neon filters to drawings.
-- [Daily Homework](https://golana.online/tool/daily-homework): A complete privacy-first, database-free daily homework platform for ages 5–12. Curriculum-aware, 19 countries, 4 languages, offline-ready, with streaks, badges, coins, and parent rewards.
+- [Shift Schedule Generator](https://golana.online/tool/shift-schedule): Assign employees to shifts automatically.
+- [Employee Timesheet Generator](https://golana.online/tool/timesheet): Track hours and export timesheets.
+- [Work Hours Calculator](https://golana.online/tool/work-hours): Calculate daily and weekly work hours.
+- [Break Timer Tool](https://golana.online/tool/break-timer): Time your breaks with presets.
+- [Attendance Tracker](https://golana.online/tool/attendance-tracker): Track who showed up, late, or absent.
+- [Employee Onboarding Checklist](https://golana.online/tool/onboarding-checklist): Manage onboarding tasks for new hires.
 
 ## Apps
 
