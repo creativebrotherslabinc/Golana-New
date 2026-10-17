@@ -216,6 +216,7 @@ Games:
 - https://golana.online/tool/color-circuit
 - https://golana.online/tool/golana-guess-game
 - https://golana.online/tool/circuit-realms
+- https://golana.online/tool/bloomrush
 
 WhatsApp Business Tools:
 - https://golana.online/tool/wa-message-template
@@ -247,6 +248,20 @@ WhatsApp Business Tools:
 - https://golana.online/tool/wa-poll
 - https://golana.online/tool/wa-team-broadcast
 - https://golana.online/tool/wa-price-quote
+- https://golana.online/tool/wa-link-gen2
+- https://golana.online/tool/wa-qr-gen2
+- https://golana.online/tool/wa-floating-button
+- https://golana.online/tool/wa-form-message
+- https://golana.online/tool/wa-message-templates
+- https://golana.online/tool/wa-link-shortener
+- https://golana.online/tool/wa-catalog-checker
+- https://golana.online/tool/wa-ban-diagnosis
+- https://golana.online/tool/wa-number-validator
+- https://golana.online/tool/wa-share-widget
+- https://golana.online/tool/wa-contact-card
+- https://golana.online/tool/wa-chat-shortcut
+- https://golana.online/tool/wa-status-formatter
+- https://golana.online/tool/wa-message-sequencer
 
 Marketing & Web Content Creation Tools:
 - https://golana.online/tool/meta-tag-generator

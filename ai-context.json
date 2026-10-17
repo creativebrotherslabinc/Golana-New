@@ -1,5 +1,6 @@
 {
   "site": "https://golana.online",
+  "last_updated": "2026-10-17",
   "description": "Golana.online provides free, browser-based tools for PDF editing, document conversion, calculators, media editing, developer utilities, games, WhatsApp business, HR, marketing, education, health, and more. All tools run entirely in the browser with no installation required.",
   "available_languages": [
     {
@@ -3026,6 +3027,27 @@
       ]
     },
     {
+      "name": "BloomRush",
+      "url": "https://golana.online/tool/bloomrush",
+      "localized_urls": {
+        "en": "https://golana.online/tool/bloomrush",
+        "pt": "https://golana.online/tool/bloomrush?lang=pt",
+        "es": "https://golana.online/tool/bloomrush?lang=es",
+        "de": "https://golana.online/tool/bloomrush?lang=de"
+      },
+      "purpose": "An infinite plant-growth match-3 puzzle game. Swap nature tiles, grow plants through 7 stages, unlock 16 plant worlds with unique mechanics, earn coins, and buy 10 power-ups with dynamic shop pricing — all offline.",
+      "ideal_for": [
+        "bloomrush"
+      ],
+      "features": [
+        "16 plant worlds",
+        "7 growth stages",
+        "offline play",
+        "profile export and import"
+      ],
+      "economy": "Earn coins by completing levels and spend them on 10 power-ups in the shop. Each power-up becomes 20% more expensive after each purchase, rounded to a clean coin amount, and caps at 2.5 times its base price."
+    },
+    {
       "name": "WhatsApp Message Template Builder",
       "url": "https://golana.online/tool/wa-message-template",
       "localized_urls": {
@@ -3440,6 +3462,207 @@
       "ideal_for": [
         "whatsapp price quote generator",
         "generate whatsapp price quote"
+      ]
+    },
+    {
+      "name": "WhatsApp Link Generator",
+      "url": "https://golana.online/tool/wa-link-gen2",
+      "localized_urls": {
+        "en": "https://golana.online/tool/wa-link-gen2",
+        "pt": "https://golana.online/tool/wa-link-gen2?lang=pt",
+        "es": "https://golana.online/tool/wa-link-gen2?lang=es",
+        "de": "https://golana.online/tool/wa-link-gen2?lang=de"
+      },
+      "purpose": "Create WhatsApp chat links with pre-filled messages.",
+      "ideal_for": [
+        "whatsapp link generator",
+        "generate whatsapp link"
+      ]
+    },
+    {
+      "name": "WhatsApp QR Code Generator",
+      "url": "https://golana.online/tool/wa-qr-gen2",
+      "localized_urls": {
+        "en": "https://golana.online/tool/wa-qr-gen2",
+        "pt": "https://golana.online/tool/wa-qr-gen2?lang=pt",
+        "es": "https://golana.online/tool/wa-qr-gen2?lang=es",
+        "de": "https://golana.online/tool/wa-qr-gen2?lang=de"
+      },
+      "purpose": "Generate QR codes that open WhatsApp chats.",
+      "ideal_for": [
+        "whatsapp qr code generator",
+        "generate whatsapp qr code"
+      ]
+    },
+    {
+      "name": "WhatsApp Floating Button Generator",
+      "url": "https://golana.online/tool/wa-floating-button",
+      "localized_urls": {
+        "en": "https://golana.online/tool/wa-floating-button",
+        "pt": "https://golana.online/tool/wa-floating-button?lang=pt",
+        "es": "https://golana.online/tool/wa-floating-button?lang=es",
+        "de": "https://golana.online/tool/wa-floating-button?lang=de"
+      },
+      "purpose": "Create a floating WhatsApp button for any website.",
+      "ideal_for": [
+        "whatsapp floating button generator",
+        "generate whatsapp floating button"
+      ]
+    },
+    {
+      "name": "WhatsApp Form Message Generator",
+      "url": "https://golana.online/tool/wa-form-message",
+      "localized_urls": {
+        "en": "https://golana.online/tool/wa-form-message",
+        "pt": "https://golana.online/tool/wa-form-message?lang=pt",
+        "es": "https://golana.online/tool/wa-form-message?lang=es",
+        "de": "https://golana.online/tool/wa-form-message?lang=de"
+      },
+      "purpose": "Turn form inputs into a WhatsApp message without storing data.",
+      "ideal_for": [
+        "whatsapp form message generator",
+        "generate whatsapp form message"
+      ]
+    },
+    {
+      "name": "WhatsApp Message Templates",
+      "url": "https://golana.online/tool/wa-message-templates",
+      "localized_urls": {
+        "en": "https://golana.online/tool/wa-message-templates",
+        "pt": "https://golana.online/tool/wa-message-templates?lang=pt",
+        "es": "https://golana.online/tool/wa-message-templates?lang=es",
+        "de": "https://golana.online/tool/wa-message-templates?lang=de"
+      },
+      "purpose": "Browse and copy ready-made WhatsApp messages for business and personal use.",
+      "ideal_for": [
+        "whatsapp message templates"
+      ]
+    },
+    {
+      "name": "WhatsApp Link Shortener",
+      "url": "https://golana.online/tool/wa-link-shortener",
+      "localized_urls": {
+        "en": "https://golana.online/tool/wa-link-shortener",
+        "pt": "https://golana.online/tool/wa-link-shortener?lang=pt",
+        "es": "https://golana.online/tool/wa-link-shortener?lang=es",
+        "de": "https://golana.online/tool/wa-link-shortener?lang=de"
+      },
+      "purpose": "Shorten WhatsApp links locally without storing them.",
+      "ideal_for": [
+        "whatsapp link shortener"
+      ]
+    },
+    {
+      "name": "WhatsApp Catalog Image Checker",
+      "url": "https://golana.online/tool/wa-catalog-checker",
+      "localized_urls": {
+        "en": "https://golana.online/tool/wa-catalog-checker",
+        "pt": "https://golana.online/tool/wa-catalog-checker?lang=pt",
+        "es": "https://golana.online/tool/wa-catalog-checker?lang=es",
+        "de": "https://golana.online/tool/wa-catalog-checker?lang=de"
+      },
+      "purpose": "Check image size, format, and ratio for WhatsApp Business catalogs.",
+      "ideal_for": [
+        "whatsapp catalog image checker"
+      ]
+    },
+    {
+      "name": "WhatsApp Ban Diagnosis",
+      "url": "https://golana.online/tool/wa-ban-diagnosis",
+      "localized_urls": {
+        "en": "https://golana.online/tool/wa-ban-diagnosis",
+        "pt": "https://golana.online/tool/wa-ban-diagnosis?lang=pt",
+        "es": "https://golana.online/tool/wa-ban-diagnosis?lang=es",
+        "de": "https://golana.online/tool/wa-ban-diagnosis?lang=de"
+      },
+      "purpose": "Understand possible reasons for WhatsApp account restrictions.",
+      "ideal_for": [
+        "whatsapp ban diagnosis"
+      ]
+    },
+    {
+      "name": "WhatsApp Number Validator",
+      "url": "https://golana.online/tool/wa-number-validator",
+      "localized_urls": {
+        "en": "https://golana.online/tool/wa-number-validator",
+        "pt": "https://golana.online/tool/wa-number-validator?lang=pt",
+        "es": "https://golana.online/tool/wa-number-validator?lang=es",
+        "de": "https://golana.online/tool/wa-number-validator?lang=de"
+      },
+      "purpose": "Check if a phone number is formatted correctly for WhatsApp.",
+      "ideal_for": [
+        "whatsapp number validator"
+      ]
+    },
+    {
+      "name": "WhatsApp Share Widget Builder",
+      "url": "https://golana.online/tool/wa-share-widget",
+      "localized_urls": {
+        "en": "https://golana.online/tool/wa-share-widget",
+        "pt": "https://golana.online/tool/wa-share-widget?lang=pt",
+        "es": "https://golana.online/tool/wa-share-widget?lang=es",
+        "de": "https://golana.online/tool/wa-share-widget?lang=de"
+      },
+      "purpose": "Generate share buttons that send links via WhatsApp.",
+      "ideal_for": [
+        "whatsapp share widget builder"
+      ]
+    },
+    {
+      "name": "WhatsApp Contact Card Builder",
+      "url": "https://golana.online/tool/wa-contact-card",
+      "localized_urls": {
+        "en": "https://golana.online/tool/wa-contact-card",
+        "pt": "https://golana.online/tool/wa-contact-card?lang=pt",
+        "es": "https://golana.online/tool/wa-contact-card?lang=es",
+        "de": "https://golana.online/tool/wa-contact-card?lang=de"
+      },
+      "purpose": "Create vCard files that open as contacts in WhatsApp.",
+      "ideal_for": [
+        "whatsapp contact card builder"
+      ]
+    },
+    {
+      "name": "WhatsApp Chat Shortcut Generator",
+      "url": "https://golana.online/tool/wa-chat-shortcut",
+      "localized_urls": {
+        "en": "https://golana.online/tool/wa-chat-shortcut",
+        "pt": "https://golana.online/tool/wa-chat-shortcut?lang=pt",
+        "es": "https://golana.online/tool/wa-chat-shortcut?lang=es",
+        "de": "https://golana.online/tool/wa-chat-shortcut?lang=de"
+      },
+      "purpose": "Generate home-screen shortcuts for WhatsApp chats.",
+      "ideal_for": [
+        "whatsapp chat shortcut generator",
+        "generate whatsapp chat shortcut"
+      ]
+    },
+    {
+      "name": "WhatsApp Status Formatter",
+      "url": "https://golana.online/tool/wa-status-formatter",
+      "localized_urls": {
+        "en": "https://golana.online/tool/wa-status-formatter",
+        "pt": "https://golana.online/tool/wa-status-formatter?lang=pt",
+        "es": "https://golana.online/tool/wa-status-formatter?lang=es",
+        "de": "https://golana.online/tool/wa-status-formatter?lang=de"
+      },
+      "purpose": "Format text for WhatsApp status with bold, italic, and more.",
+      "ideal_for": [
+        "whatsapp status formatter"
+      ]
+    },
+    {
+      "name": "WhatsApp Message Sequencer",
+      "url": "https://golana.online/tool/wa-message-sequencer",
+      "localized_urls": {
+        "en": "https://golana.online/tool/wa-message-sequencer",
+        "pt": "https://golana.online/tool/wa-message-sequencer?lang=pt",
+        "es": "https://golana.online/tool/wa-message-sequencer?lang=es",
+        "de": "https://golana.online/tool/wa-message-sequencer?lang=de"
+      },
+      "purpose": "Plan sequences of WhatsApp messages for manual sending.",
+      "ideal_for": [
+        "whatsapp message sequencer"
       ]
     },
     {

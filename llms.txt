@@ -224,6 +224,7 @@
 - [Color Circuit](https://golana.online/tool/color-circuit): Connect matching colored nodes on a grid without crossing paths.
 - [Guess Game](https://golana.online/tool/golana-guess-game): A Heads-Up-style party guessing game with tilt controls, 9 categories, and 4 languages.
 - [Circuit Realms](https://golana.online/tool/circuit-realms): Connect energy sources to crystals by rotating path tiles. 30 levels across 3 difficulties, a shard reward system, and an in-game shop — all offline.
+- [BloomRush](https://golana.online/tool/bloomrush): An infinite plant-growth match-3 puzzle game. Swap nature tiles, grow plants through 7 stages, unlock 16 plant worlds with unique mechanics, earn coins, and buy 10 power-ups with dynamic shop pricing — all offline. 16 plant worlds, 7 growth stages, offline play, profile export and import. Earn coins by completing levels and spend them on 10 power-ups in the shop. Each power-up becomes 20% more expensive after each purchase, rounded to a clean coin amount, and caps at 2.5 times its base price.
 
 ## WhatsApp Business Tools
 
@@ -256,6 +257,20 @@
 - [WhatsApp Poll Builder](https://golana.online/tool/wa-poll): Create poll messages with lettered options for WhatsApp.
 - [WhatsApp Team Broadcast](https://golana.online/tool/wa-team-broadcast): Send broadcast messages to your team members.
 - [WhatsApp Price Quote Generator](https://golana.online/tool/wa-price-quote): Create professional price quotes with discounts to send via WhatsApp.
+- [WhatsApp Link Generator](https://golana.online/tool/wa-link-gen2): Create WhatsApp chat links with pre-filled messages.
+- [WhatsApp QR Code Generator](https://golana.online/tool/wa-qr-gen2): Generate QR codes that open WhatsApp chats.
+- [WhatsApp Floating Button Generator](https://golana.online/tool/wa-floating-button): Create a floating WhatsApp button for any website.
+- [WhatsApp Form Message Generator](https://golana.online/tool/wa-form-message): Turn form inputs into a WhatsApp message without storing data.
+- [WhatsApp Message Templates](https://golana.online/tool/wa-message-templates): Browse and copy ready-made WhatsApp messages for business and personal use.
+- [WhatsApp Link Shortener](https://golana.online/tool/wa-link-shortener): Shorten WhatsApp links locally without storing them.
+- [WhatsApp Catalog Image Checker](https://golana.online/tool/wa-catalog-checker): Check image size, format, and ratio for WhatsApp Business catalogs.
+- [WhatsApp Ban Diagnosis](https://golana.online/tool/wa-ban-diagnosis): Understand possible reasons for WhatsApp account restrictions.
+- [WhatsApp Number Validator](https://golana.online/tool/wa-number-validator): Check if a phone number is formatted correctly for WhatsApp.
+- [WhatsApp Share Widget Builder](https://golana.online/tool/wa-share-widget): Generate share buttons that send links via WhatsApp.
+- [WhatsApp Contact Card Builder](https://golana.online/tool/wa-contact-card): Create vCard files that open as contacts in WhatsApp.
+- [WhatsApp Chat Shortcut Generator](https://golana.online/tool/wa-chat-shortcut): Generate home-screen shortcuts for WhatsApp chats.
+- [WhatsApp Status Formatter](https://golana.online/tool/wa-status-formatter): Format text for WhatsApp status with bold, italic, and more.
+- [WhatsApp Message Sequencer](https://golana.online/tool/wa-message-sequencer): Plan sequences of WhatsApp messages for manual sending.
 
 ## Marketing & Web Content Creation Tools
 
