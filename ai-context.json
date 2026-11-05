@@ -1,6 +1,6 @@
 {
   "site": "https://golana.online",
-  "last_updated": "2026-10-17",
+  "last_updated": "2026-11-05",
   "description": "Golana.online provides free, browser-based tools for PDF editing, document conversion, calculators, media editing, developer utilities, games, WhatsApp business, HR, marketing, education, health, and more. All tools run entirely in the browser with no installation required.",
   "available_languages": [
     {
@@ -46,7 +46,7 @@
         "es": "https://golana.online/tool/pdf-splitter?lang=es",
         "de": "https://golana.online/tool/pdf-splitter?lang=de"
       },
-      "purpose": "Split a PDF into separate pages or ranges.",
+      "purpose": "Split by page ranges, extract pages into one file, or auto-detect chapters.",
       "ideal_for": [
         "pdf splitter",
         "split pdf",
@@ -154,20 +154,6 @@
       ]
     },
     {
-      "name": "Extract PDF Pages",
-      "url": "https://golana.online/tool/pdf-extract-pages",
-      "localized_urls": {
-        "en": "https://golana.online/tool/pdf-extract-pages",
-        "pt": "https://golana.online/tool/pdf-extract-pages?lang=pt",
-        "es": "https://golana.online/tool/pdf-extract-pages?lang=es",
-        "de": "https://golana.online/tool/pdf-extract-pages?lang=de"
-      },
-      "purpose": "Extract specific pages into a new PDF.",
-      "ideal_for": [
-        "extract pdf pages"
-      ]
-    },
-    {
       "name": "Rotate PDF",
       "url": "https://golana.online/tool/pdf-rotator",
       "localized_urls": {
@@ -209,20 +195,6 @@
       "purpose": "Remove hidden metadata from PDF files.",
       "ideal_for": [
         "pdf metadata cleaner"
-      ]
-    },
-    {
-      "name": "PDF Split by Content",
-      "url": "https://golana.online/tool/pdf-smart-splitter",
-      "localized_urls": {
-        "en": "https://golana.online/tool/pdf-smart-splitter",
-        "pt": "https://golana.online/tool/pdf-smart-splitter?lang=pt",
-        "es": "https://golana.online/tool/pdf-smart-splitter?lang=es",
-        "de": "https://golana.online/tool/pdf-smart-splitter?lang=de"
-      },
-      "purpose": "Auto-detect chapters and split into multiple PDFs.",
-      "ideal_for": [
-        "pdf split by content"
       ]
     },
     {
@@ -279,34 +251,6 @@
       "purpose": "Convert an Excel spreadsheet into a PDF.",
       "ideal_for": [
         "excel to pdf"
-      ]
-    },
-    {
-      "name": "PDF to JPG",
-      "url": "https://golana.online/tool/pdf-to-jpg",
-      "localized_urls": {
-        "en": "https://golana.online/tool/pdf-to-jpg",
-        "pt": "https://golana.online/tool/pdf-to-jpg?lang=pt",
-        "es": "https://golana.online/tool/pdf-to-jpg?lang=es",
-        "de": "https://golana.online/tool/pdf-to-jpg?lang=de"
-      },
-      "purpose": "Export each PDF page as a JPG image.",
-      "ideal_for": [
-        "pdf to jpg"
-      ]
-    },
-    {
-      "name": "JPG to PDF",
-      "url": "https://golana.online/tool/jpg-to-pdf",
-      "localized_urls": {
-        "en": "https://golana.online/tool/jpg-to-pdf",
-        "pt": "https://golana.online/tool/jpg-to-pdf?lang=pt",
-        "es": "https://golana.online/tool/jpg-to-pdf?lang=es",
-        "de": "https://golana.online/tool/jpg-to-pdf?lang=de"
-      },
-      "purpose": "Combine JPG images into a single PDF.",
-      "ideal_for": [
-        "jpg to pdf"
       ]
     },
     {
@@ -405,7 +349,7 @@
         "es": "https://golana.online/tool/pdf-crop?lang=es",
         "de": "https://golana.online/tool/pdf-crop?lang=de"
       },
-      "purpose": "Crop the margins or area of every PDF page.",
+      "purpose": "Crop PDF pages by a fixed margin or auto-trim white borders.",
       "ideal_for": [
         "crop pdf",
         "pdf crop"
@@ -438,20 +382,6 @@
       "purpose": "Convert all PDF pages to a uniform size like A4 or Letter.",
       "ideal_for": [
         "pdf page size normalizer"
-      ]
-    },
-    {
-      "name": "PDF Margin Remover",
-      "url": "https://golana.online/tool/pdf-margin-remover",
-      "localized_urls": {
-        "en": "https://golana.online/tool/pdf-margin-remover",
-        "pt": "https://golana.online/tool/pdf-margin-remover?lang=pt",
-        "es": "https://golana.online/tool/pdf-margin-remover?lang=es",
-        "de": "https://golana.online/tool/pdf-margin-remover?lang=de"
-      },
-      "purpose": "Auto-detect and remove white margins from PDF pages.",
-      "ideal_for": [
-        "pdf margin remover"
       ]
     },
     {
@@ -556,21 +486,6 @@
       ]
     },
     {
-      "name": "Text Case Converter",
-      "url": "https://golana.online/tool/text-case",
-      "localized_urls": {
-        "en": "https://golana.online/tool/text-case",
-        "pt": "https://golana.online/tool/text-case?lang=pt",
-        "es": "https://golana.online/tool/text-case?lang=es",
-        "de": "https://golana.online/tool/text-case?lang=de"
-      },
-      "purpose": "Change text capitalization styles.",
-      "ideal_for": [
-        "text case converter",
-        "convert text case"
-      ]
-    },
-    {
       "name": "Word Counter",
       "url": "https://golana.online/tool/word-counter",
       "localized_urls": {
@@ -583,20 +498,6 @@
       "ideal_for": [
         "word counter",
         "counter word"
-      ]
-    },
-    {
-      "name": "Text Encryption Tool",
-      "url": "https://golana.online/tool/text-encryption",
-      "localized_urls": {
-        "en": "https://golana.online/tool/text-encryption",
-        "pt": "https://golana.online/tool/text-encryption?lang=pt",
-        "es": "https://golana.online/tool/text-encryption?lang=es",
-        "de": "https://golana.online/tool/text-encryption?lang=de"
-      },
-      "purpose": "Encrypt and decrypt text with a key.",
-      "ideal_for": [
-        "text encryption tool"
       ]
     },
     {
@@ -668,7 +569,7 @@
         "es": "https://golana.online/tool/duplicate-line-remover?lang=es",
         "de": "https://golana.online/tool/duplicate-line-remover?lang=de"
       },
-      "purpose": "Remove duplicate lines from text.",
+      "purpose": "Remove duplicate lines with case and trim options, sort results, and see counts.",
       "ideal_for": [
         "duplicate line remover"
       ]
@@ -686,20 +587,6 @@
       "ideal_for": [
         "text case converter",
         "convert text case"
-      ]
-    },
-    {
-      "name": "Text Statistics Analyzer",
-      "url": "https://golana.online/tool/text-statistics",
-      "localized_urls": {
-        "en": "https://golana.online/tool/text-statistics",
-        "pt": "https://golana.online/tool/text-statistics?lang=pt",
-        "es": "https://golana.online/tool/text-statistics?lang=es",
-        "de": "https://golana.online/tool/text-statistics?lang=de"
-      },
-      "purpose": "Analyze word count, character count, sentences, paragraphs, and reading time.",
-      "ideal_for": [
-        "text statistics analyzer"
       ]
     },
     {
@@ -822,20 +709,6 @@
       ]
     },
     {
-      "name": "Text Deduper Pro",
-      "url": "https://golana.online/tool/text-deduper-pro",
-      "localized_urls": {
-        "en": "https://golana.online/tool/text-deduper-pro",
-        "pt": "https://golana.online/tool/text-deduper-pro?lang=pt",
-        "es": "https://golana.online/tool/text-deduper-pro?lang=es",
-        "de": "https://golana.online/tool/text-deduper-pro?lang=de"
-      },
-      "purpose": "Advanced duplicate remover with case and trim options.",
-      "ideal_for": [
-        "text deduper pro"
-      ]
-    },
-    {
       "name": "Text Randomizer",
       "url": "https://golana.online/tool/text-randomizer",
       "localized_urls": {
@@ -877,21 +750,6 @@
       "ideal_for": [
         "grammar checker",
         "checker grammar"
-      ]
-    },
-    {
-      "name": "Plagiarism Checker",
-      "url": "https://golana.online/tool/plagiarism-checker",
-      "localized_urls": {
-        "en": "https://golana.online/tool/plagiarism-checker",
-        "pt": "https://golana.online/tool/plagiarism-checker?lang=pt",
-        "es": "https://golana.online/tool/plagiarism-checker?lang=es",
-        "de": "https://golana.online/tool/plagiarism-checker?lang=de"
-      },
-      "purpose": "Compare two texts for matching phrases and similarity.",
-      "ideal_for": [
-        "plagiarism checker",
-        "checker plagiarism"
       ]
     },
     {
@@ -1164,7 +1022,7 @@
         "es": "https://golana.online/tool/image-blur?lang=es",
         "de": "https://golana.online/tool/image-blur?lang=de"
       },
-      "purpose": "Blur or pixelate parts of an image.",
+      "purpose": "Blur or pixelate an image, or blur the background while keeping the subject sharp.",
       "ideal_for": [
         "image blur & pixelate"
       ]
@@ -1182,20 +1040,6 @@
       "ideal_for": [
         "image cropper",
         "cropper image"
-      ]
-    },
-    {
-      "name": "Image Background Blur",
-      "url": "https://golana.online/tool/image-bg-blur",
-      "localized_urls": {
-        "en": "https://golana.online/tool/image-bg-blur",
-        "pt": "https://golana.online/tool/image-bg-blur?lang=pt",
-        "es": "https://golana.online/tool/image-bg-blur?lang=es",
-        "de": "https://golana.online/tool/image-bg-blur?lang=de"
-      },
-      "purpose": "Blur the background while keeping the subject sharp.",
-      "ideal_for": [
-        "image background blur"
       ]
     },
     {
@@ -1347,38 +1191,6 @@
       ]
     },
     {
-      "name": "Interest Calculator",
-      "url": "https://golana.online/tool/interest",
-      "localized_urls": {
-        "en": "https://golana.online/tool/interest",
-        "pt": "https://golana.online/tool/interest?lang=pt",
-        "es": "https://golana.online/tool/interest?lang=es",
-        "de": "https://golana.online/tool/interest?lang=de"
-      },
-      "purpose": "Simple and compound interest.",
-      "ideal_for": [
-        "interest calculator",
-        "calculate interest",
-        "calculator interest"
-      ]
-    },
-    {
-      "name": "Savings Calculator",
-      "url": "https://golana.online/tool/savings",
-      "localized_urls": {
-        "en": "https://golana.online/tool/savings",
-        "pt": "https://golana.online/tool/savings?lang=pt",
-        "es": "https://golana.online/tool/savings?lang=es",
-        "de": "https://golana.online/tool/savings?lang=de"
-      },
-      "purpose": "Plan savings growth over time.",
-      "ideal_for": [
-        "savings calculator",
-        "calculate savings",
-        "calculator savings"
-      ]
-    },
-    {
       "name": "Currency Converter",
       "url": "https://golana.online/tool/currency",
       "localized_urls": {
@@ -1511,7 +1323,7 @@
         "es": "https://golana.online/tool/compound-interest?lang=es",
         "de": "https://golana.online/tool/compound-interest?lang=de"
       },
-      "purpose": "Project compound growth with recurring deposits.",
+      "purpose": "Project growth with recurring deposits and annual, monthly, or daily compounding.",
       "ideal_for": [
         "compound interest with contributions"
       ]
@@ -1744,20 +1556,6 @@
       ]
     },
     {
-      "name": "Text Summarizer (Non-AI)",
-      "url": "https://golana.online/tool/text-summarizer-rule-based",
-      "localized_urls": {
-        "en": "https://golana.online/tool/text-summarizer-rule-based",
-        "pt": "https://golana.online/tool/text-summarizer-rule-based?lang=pt",
-        "es": "https://golana.online/tool/text-summarizer-rule-based?lang=es",
-        "de": "https://golana.online/tool/text-summarizer-rule-based?lang=de"
-      },
-      "purpose": "Summarize text using TF-IDF keyword extraction and sentence scoring.",
-      "ideal_for": [
-        "text summarizer (non-ai)"
-      ]
-    },
-    {
       "name": "Text Similarity Checker",
       "url": "https://golana.online/tool/text-similarity-checker",
       "localized_urls": {
@@ -1766,7 +1564,7 @@
         "es": "https://golana.online/tool/text-similarity-checker?lang=es",
         "de": "https://golana.online/tool/text-similarity-checker?lang=de"
       },
-      "purpose": "Compare two texts using TF-IDF and cosine similarity.",
+      "purpose": "Compare two texts using cosine TF-IDF similarity or n-gram phrase matching.",
       "ideal_for": [
         "text similarity checker"
       ]
@@ -1922,21 +1720,6 @@
       ]
     },
     {
-      "name": "Session Timer",
-      "url": "https://golana.online/tool/session-timer",
-      "localized_urls": {
-        "en": "https://golana.online/tool/session-timer",
-        "pt": "https://golana.online/tool/session-timer?lang=pt",
-        "es": "https://golana.online/tool/session-timer?lang=es",
-        "de": "https://golana.online/tool/session-timer?lang=de"
-      },
-      "purpose": "Track time spent on tasks.",
-      "ideal_for": [
-        "session timer",
-        "timer session"
-      ]
-    },
-    {
       "name": "Text Summarizer",
       "url": "https://golana.online/tool/summarizer",
       "localized_urls": {
@@ -1952,36 +1735,6 @@
       ]
     },
     {
-      "name": "Paraphraser",
-      "url": "https://golana.online/tool/paraphraser",
-      "localized_urls": {
-        "en": "https://golana.online/tool/paraphraser",
-        "pt": "https://golana.online/tool/paraphraser?lang=pt",
-        "es": "https://golana.online/tool/paraphraser?lang=es",
-        "de": "https://golana.online/tool/paraphraser?lang=de"
-      },
-      "purpose": "Reword sentences clearly.",
-      "ideal_for": [
-        "paraphraser"
-      ]
-    },
-    {
-      "name": "Name Generator",
-      "url": "https://golana.online/tool/name-generator",
-      "localized_urls": {
-        "en": "https://golana.online/tool/name-generator",
-        "pt": "https://golana.online/tool/name-generator?lang=pt",
-        "es": "https://golana.online/tool/name-generator?lang=es",
-        "de": "https://golana.online/tool/name-generator?lang=de"
-      },
-      "purpose": "Generate creative names.",
-      "ideal_for": [
-        "name generator",
-        "generate name",
-        "generator name"
-      ]
-    },
-    {
       "name": "Resume Bullets",
       "url": "https://golana.online/tool/resume-bullets",
       "localized_urls": {
@@ -1994,177 +1747,6 @@
       "ideal_for": [
         "resume bullets",
         "bullets resume"
-      ]
-    },
-    {
-      "name": "Joke Generator",
-      "url": "https://golana.online/tool/joke-generator",
-      "localized_urls": {
-        "en": "https://golana.online/tool/joke-generator",
-        "pt": "https://golana.online/tool/joke-generator?lang=pt",
-        "es": "https://golana.online/tool/joke-generator?lang=es",
-        "de": "https://golana.online/tool/joke-generator?lang=de"
-      },
-      "purpose": "Get a quick random joke.",
-      "ideal_for": [
-        "joke generator",
-        "generate joke",
-        "generator joke"
-      ]
-    },
-    {
-      "name": "Story Generator",
-      "url": "https://golana.online/tool/story-generator",
-      "localized_urls": {
-        "en": "https://golana.online/tool/story-generator",
-        "pt": "https://golana.online/tool/story-generator?lang=pt",
-        "es": "https://golana.online/tool/story-generator?lang=es",
-        "de": "https://golana.online/tool/story-generator?lang=de"
-      },
-      "purpose": "Spin up a short story.",
-      "ideal_for": [
-        "story generator",
-        "generate story",
-        "generator story"
-      ]
-    },
-    {
-      "name": "Love Calculator",
-      "url": "https://golana.online/tool/love-calculator",
-      "localized_urls": {
-        "en": "https://golana.online/tool/love-calculator",
-        "pt": "https://golana.online/tool/love-calculator?lang=pt",
-        "es": "https://golana.online/tool/love-calculator?lang=es",
-        "de": "https://golana.online/tool/love-calculator?lang=de"
-      },
-      "purpose": "Check your compatibility score.",
-      "ideal_for": [
-        "love calculator",
-        "calculate love",
-        "calculator love"
-      ]
-    },
-    {
-      "name": "Horoscope Generator",
-      "url": "https://golana.online/tool/horoscope-generator",
-      "localized_urls": {
-        "en": "https://golana.online/tool/horoscope-generator",
-        "pt": "https://golana.online/tool/horoscope-generator?lang=pt",
-        "es": "https://golana.online/tool/horoscope-generator?lang=es",
-        "de": "https://golana.online/tool/horoscope-generator?lang=de"
-      },
-      "purpose": "Get a daily horoscope reading.",
-      "ideal_for": [
-        "horoscope generator",
-        "generate horoscope",
-        "generator horoscope"
-      ]
-    },
-    {
-      "name": "Fortune Cookie Generator",
-      "url": "https://golana.online/tool/fortune-cookie",
-      "localized_urls": {
-        "en": "https://golana.online/tool/fortune-cookie",
-        "pt": "https://golana.online/tool/fortune-cookie?lang=pt",
-        "es": "https://golana.online/tool/fortune-cookie?lang=es",
-        "de": "https://golana.online/tool/fortune-cookie?lang=de"
-      },
-      "purpose": "Crack a cookie for your fortune.",
-      "ideal_for": [
-        "fortune cookie generator",
-        "generate fortune cookie"
-      ]
-    },
-    {
-      "name": "Would You Rather Generator",
-      "url": "https://golana.online/tool/would-you-rather",
-      "localized_urls": {
-        "en": "https://golana.online/tool/would-you-rather",
-        "pt": "https://golana.online/tool/would-you-rather?lang=pt",
-        "es": "https://golana.online/tool/would-you-rather?lang=es",
-        "de": "https://golana.online/tool/would-you-rather?lang=de"
-      },
-      "purpose": "Generate fun dilemmas to ponder.",
-      "ideal_for": [
-        "would you rather generator",
-        "generate would you rather"
-      ]
-    },
-    {
-      "name": "Truth or Dare Generator",
-      "url": "https://golana.online/tool/truth-or-dare",
-      "localized_urls": {
-        "en": "https://golana.online/tool/truth-or-dare",
-        "pt": "https://golana.online/tool/truth-or-dare?lang=pt",
-        "es": "https://golana.online/tool/truth-or-dare?lang=es",
-        "de": "https://golana.online/tool/truth-or-dare?lang=de"
-      },
-      "purpose": "Get a random truth or dare.",
-      "ideal_for": [
-        "truth or dare generator",
-        "generate truth or dare"
-      ]
-    },
-    {
-      "name": "Business Name Generator",
-      "url": "https://golana.online/tool/business-name-generator",
-      "localized_urls": {
-        "en": "https://golana.online/tool/business-name-generator",
-        "pt": "https://golana.online/tool/business-name-generator?lang=pt",
-        "es": "https://golana.online/tool/business-name-generator?lang=es",
-        "de": "https://golana.online/tool/business-name-generator?lang=de"
-      },
-      "purpose": "Generate creative business names.",
-      "ideal_for": [
-        "business name generator",
-        "generate business name"
-      ]
-    },
-    {
-      "name": "Tagline Generator",
-      "url": "https://golana.online/tool/tagline-generator",
-      "localized_urls": {
-        "en": "https://golana.online/tool/tagline-generator",
-        "pt": "https://golana.online/tool/tagline-generator?lang=pt",
-        "es": "https://golana.online/tool/tagline-generator?lang=es",
-        "de": "https://golana.online/tool/tagline-generator?lang=de"
-      },
-      "purpose": "Create catchy brand taglines.",
-      "ideal_for": [
-        "tagline generator",
-        "generate tagline",
-        "generator tagline"
-      ]
-    },
-    {
-      "name": "Tweet Generator",
-      "url": "https://golana.online/tool/tweet-generator",
-      "localized_urls": {
-        "en": "https://golana.online/tool/tweet-generator",
-        "pt": "https://golana.online/tool/tweet-generator?lang=pt",
-        "es": "https://golana.online/tool/tweet-generator?lang=es",
-        "de": "https://golana.online/tool/tweet-generator?lang=de"
-      },
-      "purpose": "Generate engaging tweets on any topic.",
-      "ideal_for": [
-        "tweet generator",
-        "generate tweet",
-        "generator tweet"
-      ]
-    },
-    {
-      "name": "Product Description Generator",
-      "url": "https://golana.online/tool/product-description-generator",
-      "localized_urls": {
-        "en": "https://golana.online/tool/product-description-generator",
-        "pt": "https://golana.online/tool/product-description-generator?lang=pt",
-        "es": "https://golana.online/tool/product-description-generator?lang=es",
-        "de": "https://golana.online/tool/product-description-generator?lang=de"
-      },
-      "purpose": "Create compelling product descriptions.",
-      "ideal_for": [
-        "product description generator",
-        "generate product description"
       ]
     },
     {
@@ -2614,21 +2196,6 @@
       ]
     },
     {
-      "name": "Breakout Game",
-      "url": "https://golana.online/tool/breakout",
-      "localized_urls": {
-        "en": "https://golana.online/tool/breakout",
-        "pt": "https://golana.online/tool/breakout?lang=pt",
-        "es": "https://golana.online/tool/breakout?lang=es",
-        "de": "https://golana.online/tool/breakout?lang=de"
-      },
-      "purpose": "Bounce the ball to break all bricks.",
-      "ideal_for": [
-        "breakout game",
-        "game breakout"
-      ]
-    },
-    {
       "name": "Connect Four",
       "url": "https://golana.online/tool/connect-four",
       "localized_urls": {
@@ -2702,20 +2269,6 @@
       ]
     },
     {
-      "name": "Color Matching Game",
-      "url": "https://golana.online/tool/color-matching",
-      "localized_urls": {
-        "en": "https://golana.online/tool/color-matching",
-        "pt": "https://golana.online/tool/color-matching?lang=pt",
-        "es": "https://golana.online/tool/color-matching?lang=es",
-        "de": "https://golana.online/tool/color-matching?lang=de"
-      },
-      "purpose": "Match the target color.",
-      "ideal_for": [
-        "color matching game"
-      ]
-    },
-    {
       "name": "Trivia Quiz",
       "url": "https://golana.online/tool/trivia-quiz",
       "localized_urls": {
@@ -2728,20 +2281,6 @@
       "ideal_for": [
         "trivia quiz",
         "quiz trivia"
-      ]
-    },
-    {
-      "name": "Card Matching Game",
-      "url": "https://golana.online/tool/card-matching",
-      "localized_urls": {
-        "en": "https://golana.online/tool/card-matching",
-        "pt": "https://golana.online/tool/card-matching?lang=pt",
-        "es": "https://golana.online/tool/card-matching?lang=es",
-        "de": "https://golana.online/tool/card-matching?lang=de"
-      },
-      "purpose": "Find all matching pairs of cards.",
-      "ideal_for": [
-        "card matching game"
       ]
     },
     {
@@ -2892,36 +2431,6 @@
       ]
     },
     {
-      "name": "Memory Cards",
-      "url": "https://golana.online/tool/memory-cards",
-      "localized_urls": {
-        "en": "https://golana.online/tool/memory-cards",
-        "pt": "https://golana.online/tool/memory-cards?lang=pt",
-        "es": "https://golana.online/tool/memory-cards?lang=es",
-        "de": "https://golana.online/tool/memory-cards?lang=de"
-      },
-      "purpose": "Flip cards to find all matching pairs.",
-      "ideal_for": [
-        "memory cards",
-        "cards memory"
-      ]
-    },
-    {
-      "name": "Reaction Time",
-      "url": "https://golana.online/tool/smart-reaction-time",
-      "localized_urls": {
-        "en": "https://golana.online/tool/smart-reaction-time",
-        "pt": "https://golana.online/tool/smart-reaction-time?lang=pt",
-        "es": "https://golana.online/tool/smart-reaction-time?lang=es",
-        "de": "https://golana.online/tool/smart-reaction-time?lang=de"
-      },
-      "purpose": "Test how fast you react.",
-      "ideal_for": [
-        "reaction time",
-        "time reaction"
-      ]
-    },
-    {
       "name": "Mini Maze",
       "url": "https://golana.online/tool/mini-maze",
       "localized_urls": {
@@ -3048,17 +2557,143 @@
       "economy": "Earn coins by completing levels and spend them on 10 power-ups in the shop. Each power-up becomes 20% more expensive after each purchase, rounded to a clean coin amount, and caps at 2.5 times its base price."
     },
     {
-      "name": "WhatsApp Message Template Builder",
-      "url": "https://golana.online/tool/wa-message-template",
+      "name": "WordGrid Odyssey",
+      "url": "https://golana.online/tool/wordgrid-odyssey",
       "localized_urls": {
-        "en": "https://golana.online/tool/wa-message-template",
-        "pt": "https://golana.online/tool/wa-message-template?lang=pt",
-        "es": "https://golana.online/tool/wa-message-template?lang=es",
-        "de": "https://golana.online/tool/wa-message-template?lang=de"
+        "en": "https://golana.online/tool/wordgrid-odyssey",
+        "pt": "https://golana.online/tool/wordgrid-odyssey?lang=pt",
+        "es": "https://golana.online/tool/wordgrid-odyssey?lang=es",
+        "de": "https://golana.online/tool/wordgrid-odyssey?lang=de"
       },
-      "purpose": "Build structured message templates.",
+      "purpose": "An infinite, thematic word search adventure with 8 theme packs, seasonal editions, hidden tiles, micro-challenges, power-ups, and local-only progression — all offline.",
       "ideal_for": [
-        "whatsapp message template builder"
+        "wordgrid odyssey",
+        "odyssey wordgrid"
+      ]
+    },
+    {
+      "name": "Name Generator",
+      "url": "https://golana.online/tool/name-generator",
+      "localized_urls": {
+        "en": "https://golana.online/tool/name-generator",
+        "pt": "https://golana.online/tool/name-generator?lang=pt",
+        "es": "https://golana.online/tool/name-generator?lang=es",
+        "de": "https://golana.online/tool/name-generator?lang=de"
+      },
+      "purpose": "Generate creative names.",
+      "ideal_for": [
+        "name generator",
+        "generate name",
+        "generator name"
+      ]
+    },
+    {
+      "name": "Joke Generator",
+      "url": "https://golana.online/tool/joke-generator",
+      "localized_urls": {
+        "en": "https://golana.online/tool/joke-generator",
+        "pt": "https://golana.online/tool/joke-generator?lang=pt",
+        "es": "https://golana.online/tool/joke-generator?lang=es",
+        "de": "https://golana.online/tool/joke-generator?lang=de"
+      },
+      "purpose": "Get a quick random joke.",
+      "ideal_for": [
+        "joke generator",
+        "generate joke",
+        "generator joke"
+      ]
+    },
+    {
+      "name": "Story Generator",
+      "url": "https://golana.online/tool/story-generator",
+      "localized_urls": {
+        "en": "https://golana.online/tool/story-generator",
+        "pt": "https://golana.online/tool/story-generator?lang=pt",
+        "es": "https://golana.online/tool/story-generator?lang=es",
+        "de": "https://golana.online/tool/story-generator?lang=de"
+      },
+      "purpose": "Spin up a short story.",
+      "ideal_for": [
+        "story generator",
+        "generate story",
+        "generator story"
+      ]
+    },
+    {
+      "name": "Love Calculator",
+      "url": "https://golana.online/tool/love-calculator",
+      "localized_urls": {
+        "en": "https://golana.online/tool/love-calculator",
+        "pt": "https://golana.online/tool/love-calculator?lang=pt",
+        "es": "https://golana.online/tool/love-calculator?lang=es",
+        "de": "https://golana.online/tool/love-calculator?lang=de"
+      },
+      "purpose": "Check your compatibility score.",
+      "ideal_for": [
+        "love calculator",
+        "calculate love",
+        "calculator love"
+      ]
+    },
+    {
+      "name": "Horoscope Generator",
+      "url": "https://golana.online/tool/horoscope-generator",
+      "localized_urls": {
+        "en": "https://golana.online/tool/horoscope-generator",
+        "pt": "https://golana.online/tool/horoscope-generator?lang=pt",
+        "es": "https://golana.online/tool/horoscope-generator?lang=es",
+        "de": "https://golana.online/tool/horoscope-generator?lang=de"
+      },
+      "purpose": "Get a daily horoscope reading.",
+      "ideal_for": [
+        "horoscope generator",
+        "generate horoscope",
+        "generator horoscope"
+      ]
+    },
+    {
+      "name": "Fortune Cookie Generator",
+      "url": "https://golana.online/tool/fortune-cookie",
+      "localized_urls": {
+        "en": "https://golana.online/tool/fortune-cookie",
+        "pt": "https://golana.online/tool/fortune-cookie?lang=pt",
+        "es": "https://golana.online/tool/fortune-cookie?lang=es",
+        "de": "https://golana.online/tool/fortune-cookie?lang=de"
+      },
+      "purpose": "Crack a cookie for your fortune.",
+      "ideal_for": [
+        "fortune cookie generator",
+        "generate fortune cookie"
+      ]
+    },
+    {
+      "name": "Would You Rather Generator",
+      "url": "https://golana.online/tool/would-you-rather",
+      "localized_urls": {
+        "en": "https://golana.online/tool/would-you-rather",
+        "pt": "https://golana.online/tool/would-you-rather?lang=pt",
+        "es": "https://golana.online/tool/would-you-rather?lang=es",
+        "de": "https://golana.online/tool/would-you-rather?lang=de"
+      },
+      "purpose": "Generate fun dilemmas to ponder.",
+      "ideal_for": [
+        "would you rather generator",
+        "generate would you rather"
+      ]
+    },
+    {
+      "name": "Truth or Dare Generator",
+      "url": "https://golana.online/tool/truth-or-dare",
+      "localized_urls": {
+        "en": "https://golana.online/tool/truth-or-dare",
+        "pt": "https://golana.online/tool/truth-or-dare?lang=pt",
+        "es": "https://golana.online/tool/truth-or-dare?lang=es",
+        "de": "https://golana.online/tool/truth-or-dare?lang=de"
+      },
+      "purpose": "Get a random truth or dare.",
+      "ideal_for": [
+        "truth or dare generator",
+        "generate truth or dare"
       ]
     },
     {
@@ -3088,21 +2723,6 @@
       "purpose": "Generate clickable WhatsApp links.",
       "ideal_for": [
         "whatsapp link generator (wa.me)"
-      ]
-    },
-    {
-      "name": "WhatsApp QR Code Generator",
-      "url": "https://golana.online/tool/wa-qr-code",
-      "localized_urls": {
-        "en": "https://golana.online/tool/wa-qr-code",
-        "pt": "https://golana.online/tool/wa-qr-code?lang=pt",
-        "es": "https://golana.online/tool/wa-qr-code?lang=es",
-        "de": "https://golana.online/tool/wa-qr-code?lang=de"
-      },
-      "purpose": "Create a QR code for your WhatsApp.",
-      "ideal_for": [
-        "whatsapp qr code generator",
-        "generate whatsapp qr code"
       ]
     },
     {
@@ -3207,21 +2827,6 @@
       ]
     },
     {
-      "name": "Customer Info Card Generator",
-      "url": "https://golana.online/tool/wa-customer-card",
-      "localized_urls": {
-        "en": "https://golana.online/tool/wa-customer-card",
-        "pt": "https://golana.online/tool/wa-customer-card?lang=pt",
-        "es": "https://golana.online/tool/wa-customer-card?lang=es",
-        "de": "https://golana.online/tool/wa-customer-card?lang=de"
-      },
-      "purpose": "Store customer details locally.",
-      "ideal_for": [
-        "customer info card generator",
-        "generate customer info card"
-      ]
-    },
-    {
       "name": "WhatsApp Survey Generator",
       "url": "https://golana.online/tool/wa-survey",
       "localized_urls": {
@@ -3323,20 +2928,6 @@
       ]
     },
     {
-      "name": "WhatsApp Message Scheduler",
-      "url": "https://golana.online/tool/wa-scheduler",
-      "localized_urls": {
-        "en": "https://golana.online/tool/wa-scheduler",
-        "pt": "https://golana.online/tool/wa-scheduler?lang=pt",
-        "es": "https://golana.online/tool/wa-scheduler?lang=es",
-        "de": "https://golana.online/tool/wa-scheduler?lang=de"
-      },
-      "purpose": "Schedule messages with reminders, stored locally.",
-      "ideal_for": [
-        "whatsapp message scheduler"
-      ]
-    },
-    {
       "name": "WhatsApp Chat Analyzer",
       "url": "https://golana.online/tool/wa-chat-analyzer",
       "localized_urls": {
@@ -3348,34 +2939,6 @@
       "purpose": "Analyze chat sentiment, keywords, and message count.",
       "ideal_for": [
         "whatsapp chat analyzer"
-      ]
-    },
-    {
-      "name": "WhatsApp Short Link + QR",
-      "url": "https://golana.online/tool/wa-short-link-qr",
-      "localized_urls": {
-        "en": "https://golana.online/tool/wa-short-link-qr",
-        "pt": "https://golana.online/tool/wa-short-link-qr?lang=pt",
-        "es": "https://golana.online/tool/wa-short-link-qr?lang=es",
-        "de": "https://golana.online/tool/wa-short-link-qr?lang=de"
-      },
-      "purpose": "Generate short links with QR codes for WhatsApp.",
-      "ideal_for": [
-        "whatsapp short link + qr"
-      ]
-    },
-    {
-      "name": "WhatsApp Broadcast Scheduler",
-      "url": "https://golana.online/tool/wa-broadcast-scheduler",
-      "localized_urls": {
-        "en": "https://golana.online/tool/wa-broadcast-scheduler",
-        "pt": "https://golana.online/tool/wa-broadcast-scheduler?lang=pt",
-        "es": "https://golana.online/tool/wa-broadcast-scheduler?lang=es",
-        "de": "https://golana.online/tool/wa-broadcast-scheduler?lang=de"
-      },
-      "purpose": "Schedule broadcast messages to multiple contacts.",
-      "ideal_for": [
-        "whatsapp broadcast scheduler"
       ]
     },
     {
@@ -3436,20 +2999,6 @@
       ]
     },
     {
-      "name": "WhatsApp Team Broadcast",
-      "url": "https://golana.online/tool/wa-team-broadcast",
-      "localized_urls": {
-        "en": "https://golana.online/tool/wa-team-broadcast",
-        "pt": "https://golana.online/tool/wa-team-broadcast?lang=pt",
-        "es": "https://golana.online/tool/wa-team-broadcast?lang=es",
-        "de": "https://golana.online/tool/wa-team-broadcast?lang=de"
-      },
-      "purpose": "Send broadcast messages to your team members.",
-      "ideal_for": [
-        "whatsapp team broadcast"
-      ]
-    },
-    {
       "name": "WhatsApp Price Quote Generator",
       "url": "https://golana.online/tool/wa-price-quote",
       "localized_urls": {
@@ -3462,36 +3011,6 @@
       "ideal_for": [
         "whatsapp price quote generator",
         "generate whatsapp price quote"
-      ]
-    },
-    {
-      "name": "WhatsApp Link Generator",
-      "url": "https://golana.online/tool/wa-link-gen2",
-      "localized_urls": {
-        "en": "https://golana.online/tool/wa-link-gen2",
-        "pt": "https://golana.online/tool/wa-link-gen2?lang=pt",
-        "es": "https://golana.online/tool/wa-link-gen2?lang=es",
-        "de": "https://golana.online/tool/wa-link-gen2?lang=de"
-      },
-      "purpose": "Create WhatsApp chat links with pre-filled messages.",
-      "ideal_for": [
-        "whatsapp link generator",
-        "generate whatsapp link"
-      ]
-    },
-    {
-      "name": "WhatsApp QR Code Generator",
-      "url": "https://golana.online/tool/wa-qr-gen2",
-      "localized_urls": {
-        "en": "https://golana.online/tool/wa-qr-gen2",
-        "pt": "https://golana.online/tool/wa-qr-gen2?lang=pt",
-        "es": "https://golana.online/tool/wa-qr-gen2?lang=es",
-        "de": "https://golana.online/tool/wa-qr-gen2?lang=de"
-      },
-      "purpose": "Generate QR codes that open WhatsApp chats.",
-      "ideal_for": [
-        "whatsapp qr code generator",
-        "generate whatsapp qr code"
       ]
     },
     {
@@ -3510,21 +3029,6 @@
       ]
     },
     {
-      "name": "WhatsApp Form Message Generator",
-      "url": "https://golana.online/tool/wa-form-message",
-      "localized_urls": {
-        "en": "https://golana.online/tool/wa-form-message",
-        "pt": "https://golana.online/tool/wa-form-message?lang=pt",
-        "es": "https://golana.online/tool/wa-form-message?lang=es",
-        "de": "https://golana.online/tool/wa-form-message?lang=de"
-      },
-      "purpose": "Turn form inputs into a WhatsApp message without storing data.",
-      "ideal_for": [
-        "whatsapp form message generator",
-        "generate whatsapp form message"
-      ]
-    },
-    {
       "name": "WhatsApp Message Templates",
       "url": "https://golana.online/tool/wa-message-templates",
       "localized_urls": {
@@ -3536,20 +3040,6 @@
       "purpose": "Browse and copy ready-made WhatsApp messages for business and personal use.",
       "ideal_for": [
         "whatsapp message templates"
-      ]
-    },
-    {
-      "name": "WhatsApp Link Shortener",
-      "url": "https://golana.online/tool/wa-link-shortener",
-      "localized_urls": {
-        "en": "https://golana.online/tool/wa-link-shortener",
-        "pt": "https://golana.online/tool/wa-link-shortener?lang=pt",
-        "es": "https://golana.online/tool/wa-link-shortener?lang=es",
-        "de": "https://golana.online/tool/wa-link-shortener?lang=de"
-      },
-      "purpose": "Shorten WhatsApp links locally without storing them.",
-      "ideal_for": [
-        "whatsapp link shortener"
       ]
     },
     {
@@ -3592,34 +3082,6 @@
       "purpose": "Check if a phone number is formatted correctly for WhatsApp.",
       "ideal_for": [
         "whatsapp number validator"
-      ]
-    },
-    {
-      "name": "WhatsApp Share Widget Builder",
-      "url": "https://golana.online/tool/wa-share-widget",
-      "localized_urls": {
-        "en": "https://golana.online/tool/wa-share-widget",
-        "pt": "https://golana.online/tool/wa-share-widget?lang=pt",
-        "es": "https://golana.online/tool/wa-share-widget?lang=es",
-        "de": "https://golana.online/tool/wa-share-widget?lang=de"
-      },
-      "purpose": "Generate share buttons that send links via WhatsApp.",
-      "ideal_for": [
-        "whatsapp share widget builder"
-      ]
-    },
-    {
-      "name": "WhatsApp Contact Card Builder",
-      "url": "https://golana.online/tool/wa-contact-card",
-      "localized_urls": {
-        "en": "https://golana.online/tool/wa-contact-card",
-        "pt": "https://golana.online/tool/wa-contact-card?lang=pt",
-        "es": "https://golana.online/tool/wa-contact-card?lang=es",
-        "de": "https://golana.online/tool/wa-contact-card?lang=de"
-      },
-      "purpose": "Create vCard files that open as contacts in WhatsApp.",
-      "ideal_for": [
-        "whatsapp contact card builder"
       ]
     },
     {
@@ -3918,6 +3380,68 @@
       ]
     },
     {
+      "name": "Business Name Generator",
+      "url": "https://golana.online/tool/business-name-generator",
+      "localized_urls": {
+        "en": "https://golana.online/tool/business-name-generator",
+        "pt": "https://golana.online/tool/business-name-generator?lang=pt",
+        "es": "https://golana.online/tool/business-name-generator?lang=es",
+        "de": "https://golana.online/tool/business-name-generator?lang=de"
+      },
+      "purpose": "Generate creative business names.",
+      "ideal_for": [
+        "business name generator",
+        "generate business name"
+      ]
+    },
+    {
+      "name": "Tagline Generator",
+      "url": "https://golana.online/tool/tagline-generator",
+      "localized_urls": {
+        "en": "https://golana.online/tool/tagline-generator",
+        "pt": "https://golana.online/tool/tagline-generator?lang=pt",
+        "es": "https://golana.online/tool/tagline-generator?lang=es",
+        "de": "https://golana.online/tool/tagline-generator?lang=de"
+      },
+      "purpose": "Create catchy brand taglines.",
+      "ideal_for": [
+        "tagline generator",
+        "generate tagline",
+        "generator tagline"
+      ]
+    },
+    {
+      "name": "Tweet Generator",
+      "url": "https://golana.online/tool/tweet-generator",
+      "localized_urls": {
+        "en": "https://golana.online/tool/tweet-generator",
+        "pt": "https://golana.online/tool/tweet-generator?lang=pt",
+        "es": "https://golana.online/tool/tweet-generator?lang=es",
+        "de": "https://golana.online/tool/tweet-generator?lang=de"
+      },
+      "purpose": "Generate engaging tweets on any topic.",
+      "ideal_for": [
+        "tweet generator",
+        "generate tweet",
+        "generator tweet"
+      ]
+    },
+    {
+      "name": "Product Description Generator",
+      "url": "https://golana.online/tool/product-description-generator",
+      "localized_urls": {
+        "en": "https://golana.online/tool/product-description-generator",
+        "pt": "https://golana.online/tool/product-description-generator?lang=pt",
+        "es": "https://golana.online/tool/product-description-generator?lang=es",
+        "de": "https://golana.online/tool/product-description-generator?lang=de"
+      },
+      "purpose": "Create compelling product descriptions.",
+      "ideal_for": [
+        "product description generator",
+        "generate product description"
+      ]
+    },
+    {
       "name": "Flashcard Creator",
       "url": "https://golana.online/tool/flashcard-creator",
       "localized_urls": {
@@ -3990,20 +3514,6 @@
       "ideal_for": [
         "vocabulary trainer",
         "trainer vocabulary"
-      ]
-    },
-    {
-      "name": "Typing Practice Tool",
-      "url": "https://golana.online/tool/typing-practice",
-      "localized_urls": {
-        "en": "https://golana.online/tool/typing-practice",
-        "pt": "https://golana.online/tool/typing-practice?lang=pt",
-        "es": "https://golana.online/tool/typing-practice?lang=es",
-        "de": "https://golana.online/tool/typing-practice?lang=de"
-      },
-      "purpose": "Practice typing and measure WPM.",
-      "ideal_for": [
-        "typing practice tool"
       ]
     },
     {
@@ -4207,21 +3717,6 @@
       "ideal_for": [
         "reward chart generator",
         "generate reward chart"
-      ]
-    },
-    {
-      "name": "Homework Timer",
-      "url": "https://golana.online/tool/homework-timer",
-      "localized_urls": {
-        "en": "https://golana.online/tool/homework-timer",
-        "pt": "https://golana.online/tool/homework-timer?lang=pt",
-        "es": "https://golana.online/tool/homework-timer?lang=es",
-        "de": "https://golana.online/tool/homework-timer?lang=de"
-      },
-      "purpose": "Focus timer with countdown, stopwatch, and break modes for study sessions.",
-      "ideal_for": [
-        "homework timer",
-        "timer homework"
       ]
     },
     {
@@ -4560,35 +4055,6 @@
       ]
     },
     {
-      "name": "Business KPI Visualizer",
-      "url": "https://golana.online/tool/business-kpi-visualizer",
-      "localized_urls": {
-        "en": "https://golana.online/tool/business-kpi-visualizer",
-        "pt": "https://golana.online/tool/business-kpi-visualizer?lang=pt",
-        "es": "https://golana.online/tool/business-kpi-visualizer?lang=es",
-        "de": "https://golana.online/tool/business-kpi-visualizer?lang=de"
-      },
-      "purpose": "Visualize revenue, expenses, conversion, retention, and margins.",
-      "ideal_for": [
-        "business kpi visualizer"
-      ]
-    },
-    {
-      "name": "Shift Schedule Generator",
-      "url": "https://golana.online/tool/shift-schedule",
-      "localized_urls": {
-        "en": "https://golana.online/tool/shift-schedule",
-        "pt": "https://golana.online/tool/shift-schedule?lang=pt",
-        "es": "https://golana.online/tool/shift-schedule?lang=es",
-        "de": "https://golana.online/tool/shift-schedule?lang=de"
-      },
-      "purpose": "Assign employees to shifts automatically.",
-      "ideal_for": [
-        "shift schedule generator",
-        "generate shift schedule"
-      ]
-    },
-    {
       "name": "Employee Timesheet Generator",
       "url": "https://golana.online/tool/timesheet",
       "localized_urls": {
@@ -4601,35 +4067,6 @@
       "ideal_for": [
         "employee timesheet generator",
         "generate employee timesheet"
-      ]
-    },
-    {
-      "name": "Work Hours Calculator",
-      "url": "https://golana.online/tool/work-hours",
-      "localized_urls": {
-        "en": "https://golana.online/tool/work-hours",
-        "pt": "https://golana.online/tool/work-hours?lang=pt",
-        "es": "https://golana.online/tool/work-hours?lang=es",
-        "de": "https://golana.online/tool/work-hours?lang=de"
-      },
-      "purpose": "Calculate daily and weekly work hours.",
-      "ideal_for": [
-        "work hours calculator",
-        "calculate work hours"
-      ]
-    },
-    {
-      "name": "Break Timer Tool",
-      "url": "https://golana.online/tool/break-timer",
-      "localized_urls": {
-        "en": "https://golana.online/tool/break-timer",
-        "pt": "https://golana.online/tool/break-timer?lang=pt",
-        "es": "https://golana.online/tool/break-timer?lang=es",
-        "de": "https://golana.online/tool/break-timer?lang=de"
-      },
-      "purpose": "Time your breaks with presets.",
-      "ideal_for": [
-        "break timer tool"
       ]
     },
     {
@@ -4731,6 +4168,148 @@
       "purpose": "A simple, local-only office suite for small documents, spreadsheets, and presentations. Everything stays on your device.",
       "ideal_for": [
         "local office suite"
+      ]
+    },
+    {
+      "name": "The Consequence Machine",
+      "url": "https://golana.online/tool/consequence-machine",
+      "localized_urls": {
+        "en": "https://golana.online/tool/consequence-machine",
+        "pt": "https://golana.online/tool/consequence-machine?lang=pt",
+        "es": "https://golana.online/tool/consequence-machine?lang=es",
+        "de": "https://golana.online/tool/consequence-machine?lang=de"
+      },
+      "purpose": "Simulate optimistic, realistic, and worst-case outcomes for major life decisions.",
+      "ideal_for": [
+        "the consequence machine"
+      ]
+    },
+    {
+      "name": "The What-If Universe",
+      "url": "https://golana.online/tool/what-if-universe",
+      "localized_urls": {
+        "en": "https://golana.online/tool/what-if-universe",
+        "pt": "https://golana.online/tool/what-if-universe?lang=pt",
+        "es": "https://golana.online/tool/what-if-universe?lang=es",
+        "de": "https://golana.online/tool/what-if-universe?lang=de"
+      },
+      "purpose": "Explore alternate realities through branching timelines.",
+      "ideal_for": [
+        "the what-if universe"
+      ]
+    },
+    {
+      "name": "The Internet's Missing Manual",
+      "url": "https://golana.online/tool/internet-missing-manual",
+      "localized_urls": {
+        "en": "https://golana.online/tool/internet-missing-manual",
+        "pt": "https://golana.online/tool/internet-missing-manual?lang=pt",
+        "es": "https://golana.online/tool/internet-missing-manual?lang=es",
+        "de": "https://golana.online/tool/internet-missing-manual?lang=de"
+      },
+      "purpose": "Get step-by-step action plans for real-life problems.",
+      "ideal_for": [
+        "the internet's missing manual"
+      ]
+    },
+    {
+      "name": "The Life Cost Revealer",
+      "url": "https://golana.online/tool/life-cost-revealer",
+      "localized_urls": {
+        "en": "https://golana.online/tool/life-cost-revealer",
+        "pt": "https://golana.online/tool/life-cost-revealer?lang=pt",
+        "es": "https://golana.online/tool/life-cost-revealer?lang=es",
+        "de": "https://golana.online/tool/life-cost-revealer?lang=de"
+      },
+      "purpose": "Reveal the true cost of life decisions in money, time, and financial independence.",
+      "ideal_for": [
+        "the life cost revealer"
+      ]
+    },
+    {
+      "name": "The Personal Time Capsule",
+      "url": "https://golana.online/tool/personal-time-capsule",
+      "localized_urls": {
+        "en": "https://golana.online/tool/personal-time-capsule",
+        "pt": "https://golana.online/tool/personal-time-capsule?lang=pt",
+        "es": "https://golana.online/tool/personal-time-capsule?lang=es",
+        "de": "https://golana.online/tool/personal-time-capsule?lang=de"
+      },
+      "purpose": "Create a private digital capsule for your future self.",
+      "ideal_for": [
+        "the personal time capsule"
+      ]
+    },
+    {
+      "name": "Explain It by Changing It",
+      "url": "https://golana.online/tool/explain-by-changing",
+      "localized_urls": {
+        "en": "https://golana.online/tool/explain-by-changing",
+        "pt": "https://golana.online/tool/explain-by-changing?lang=pt",
+        "es": "https://golana.online/tool/explain-by-changing?lang=es",
+        "de": "https://golana.online/tool/explain-by-changing?lang=de"
+      },
+      "purpose": "Learn by manipulating simulations instead of reading static explanations.",
+      "ideal_for": [
+        "explain it by changing it"
+      ]
+    },
+    {
+      "name": "The Instant Experience Generator",
+      "url": "https://golana.online/tool/instant-experience-generator",
+      "localized_urls": {
+        "en": "https://golana.online/tool/instant-experience-generator",
+        "pt": "https://golana.online/tool/instant-experience-generator?lang=pt",
+        "es": "https://golana.online/tool/instant-experience-generator?lang=es",
+        "de": "https://golana.online/tool/instant-experience-generator?lang=de"
+      },
+      "purpose": "Generate ready-to-play adventures, puzzles, and activities.",
+      "ideal_for": [
+        "the instant experience generator",
+        "generate the instant experience"
+      ]
+    },
+    {
+      "name": "Hidden Options Finder",
+      "url": "https://golana.online/tool/hidden-options-finder",
+      "localized_urls": {
+        "en": "https://golana.online/tool/hidden-options-finder",
+        "pt": "https://golana.online/tool/hidden-options-finder?lang=pt",
+        "es": "https://golana.online/tool/hidden-options-finder?lang=es",
+        "de": "https://golana.online/tool/hidden-options-finder?lang=de"
+      },
+      "purpose": "Reveal unconventional solutions to personal problems.",
+      "ideal_for": [
+        "hidden options finder"
+      ]
+    },
+    {
+      "name": "The Time Debt Calculator",
+      "url": "https://golana.online/tool/time-debt-calculator",
+      "localized_urls": {
+        "en": "https://golana.online/tool/time-debt-calculator",
+        "pt": "https://golana.online/tool/time-debt-calculator?lang=pt",
+        "es": "https://golana.online/tool/time-debt-calculator?lang=es",
+        "de": "https://golana.online/tool/time-debt-calculator?lang=de"
+      },
+      "purpose": "See how your habits consume time over weeks, years, and decades.",
+      "ideal_for": [
+        "the time debt calculator",
+        "calculate the time debt"
+      ]
+    },
+    {
+      "name": "The Internet Honesty Checker",
+      "url": "https://golana.online/tool/internet-honesty-checker",
+      "localized_urls": {
+        "en": "https://golana.online/tool/internet-honesty-checker",
+        "pt": "https://golana.online/tool/internet-honesty-checker?lang=pt",
+        "es": "https://golana.online/tool/internet-honesty-checker?lang=es",
+        "de": "https://golana.online/tool/internet-honesty-checker?lang=de"
+      },
+      "purpose": "Understand what websites actually do with your data.",
+      "ideal_for": [
+        "the internet honesty checker"
       ]
     },
     {

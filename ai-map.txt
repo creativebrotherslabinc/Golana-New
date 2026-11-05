@@ -13,17 +13,13 @@ PDF & Document Tools:
 - https://golana.online/tool/images-to-pdf
 - https://golana.online/tool/pdf-to-images
 - https://golana.online/tool/pdf-to-excel
-- https://golana.online/tool/pdf-extract-pages
 - https://golana.online/tool/pdf-rotator
 - https://golana.online/tool/pdf-redactor
 - https://golana.online/tool/pdf-metadata-cleaner
-- https://golana.online/tool/pdf-smart-splitter
 - https://golana.online/tool/pdf-form-filler
 - https://golana.online/tool/pdf-to-pptx
 - https://golana.online/tool/pptx-to-pdf
 - https://golana.online/tool/excel-to-pdf
-- https://golana.online/tool/pdf-to-jpg
-- https://golana.online/tool/jpg-to-pdf
 - https://golana.online/tool/html-to-pdf
 - https://golana.online/tool/pdf-to-pdfa
 - https://golana.online/tool/pdf-to-markdown
@@ -33,7 +29,6 @@ PDF & Document Tools:
 - https://golana.online/tool/pdf-crop
 - https://golana.online/tool/pdf-organize
 - https://golana.online/tool/pdf-page-size-normalizer
-- https://golana.online/tool/pdf-margin-remover
 - https://golana.online/tool/pdf-table-extractor
 - https://golana.online/tool/pdf-ocr-extractor
 - https://golana.online/tool/pdf-signature-verifier
@@ -41,16 +36,13 @@ PDF & Document Tools:
 - https://golana.online/tool/pdf-repair
 - https://golana.online/tool/camera-scanner-pdf
 - https://golana.online/tool/text-cleaner
-- https://golana.online/tool/text-case
 - https://golana.online/tool/word-counter
-- https://golana.online/tool/text-encryption
 - https://golana.online/tool/html-escape-unescape
 - https://golana.online/tool/url-encoder-decoder
 - https://golana.online/tool/slug-generator
 - https://golana.online/tool/text-sorter
 - https://golana.online/tool/duplicate-line-remover
 - https://golana.online/tool/text-case-converter
-- https://golana.online/tool/text-statistics
 - https://golana.online/tool/text-splitter
 - https://golana.online/tool/text-joiner
 - https://golana.online/tool/text-replacer
@@ -59,11 +51,9 @@ PDF & Document Tools:
 - https://golana.online/tool/rot13
 - https://golana.online/tool/text-reverse
 - https://golana.online/tool/line-numbering
-- https://golana.online/tool/text-deduper-pro
 - https://golana.online/tool/text-randomizer
 - https://golana.online/tool/csv-chart-builder
 - https://golana.online/tool/grammar-checker
-- https://golana.online/tool/plagiarism-checker
 
 Media Tools:
 - https://golana.online/tool/image-compressor
@@ -85,7 +75,6 @@ Media Tools:
 - https://golana.online/tool/image-sharpener
 - https://golana.online/tool/image-blur
 - https://golana.online/tool/image-cropper
-- https://golana.online/tool/image-bg-blur
 - https://golana.online/tool/image-upscaler
 - https://golana.online/tool/image-denoiser
 - https://golana.online/tool/video-frame-extractor
@@ -98,8 +87,6 @@ Media Tools:
 Finance, Planning & Everyday Utilities Tools:
 - https://golana.online/tool/mortgage
 - https://golana.online/tool/loan
-- https://golana.online/tool/interest
-- https://golana.online/tool/savings
 - https://golana.online/tool/currency
 - https://golana.online/tool/salary-tax
 - https://golana.online/tool/roi
@@ -124,7 +111,6 @@ Finance, Planning & Everyday Utilities Tools:
 - https://golana.online/tool/timer-pomodoro
 - https://golana.online/tool/cooking-converter
 - https://golana.online/tool/text-pattern-extractor
-- https://golana.online/tool/text-summarizer-rule-based
 - https://golana.online/tool/text-similarity-checker
 - https://golana.online/tool/image-exif-viewer
 - https://golana.online/tool/barcode-generator
@@ -136,24 +122,10 @@ Finance, Planning & Everyday Utilities Tools:
 - https://golana.online/tool/todo-list
 - https://golana.online/tool/notes-app
 - https://golana.online/tool/habit-tracker
-- https://golana.online/tool/session-timer
 
-AI Mini Tools:
+Text & Writing:
 - https://golana.online/tool/summarizer
-- https://golana.online/tool/paraphraser
-- https://golana.online/tool/name-generator
 - https://golana.online/tool/resume-bullets
-- https://golana.online/tool/joke-generator
-- https://golana.online/tool/story-generator
-- https://golana.online/tool/love-calculator
-- https://golana.online/tool/horoscope-generator
-- https://golana.online/tool/fortune-cookie
-- https://golana.online/tool/would-you-rather
-- https://golana.online/tool/truth-or-dare
-- https://golana.online/tool/business-name-generator
-- https://golana.online/tool/tagline-generator
-- https://golana.online/tool/tweet-generator
-- https://golana.online/tool/product-description-generator
 - https://golana.online/tool/text-rewriter
 
 Developer Tools:
@@ -174,7 +146,7 @@ Developer Tools:
 - https://golana.online/tool/ip-lookup
 - https://golana.online/tool/visitor-counter
 
-Games:
+Games & Fun:
 - https://golana.online/tool/tic-tac-toe
 - https://golana.online/tool/number-guess
 - https://golana.online/tool/2048
@@ -188,15 +160,12 @@ Games:
 - https://golana.online/tool/rock-paper-scissors
 - https://golana.online/tool/typing-speed
 - https://golana.online/tool/pong
-- https://golana.online/tool/breakout
 - https://golana.online/tool/connect-four
 - https://golana.online/tool/checkers
 - https://golana.online/tool/sliding-puzzle
 - https://golana.online/tool/whack-a-mole
 - https://golana.online/tool/simon-says
-- https://golana.online/tool/color-matching
 - https://golana.online/tool/trivia-quiz
-- https://golana.online/tool/card-matching
 - https://golana.online/tool/platformer
 - https://golana.online/tool/puzzle-adventure
 - https://golana.online/tool/deadword
@@ -207,8 +176,6 @@ Games:
 - https://golana.online/tool/hexa-merge-kingdom
 - https://golana.online/tool/word-scramble
 - https://golana.online/tool/mini-sudoku
-- https://golana.online/tool/memory-cards
-- https://golana.online/tool/smart-reaction-time
 - https://golana.online/tool/mini-maze
 - https://golana.online/tool/word-ladder
 - https://golana.online/tool/logic-puzzle
@@ -217,12 +184,19 @@ Games:
 - https://golana.online/tool/golana-guess-game
 - https://golana.online/tool/circuit-realms
 - https://golana.online/tool/bloomrush
+- https://golana.online/tool/wordgrid-odyssey
+- https://golana.online/tool/name-generator
+- https://golana.online/tool/joke-generator
+- https://golana.online/tool/story-generator
+- https://golana.online/tool/love-calculator
+- https://golana.online/tool/horoscope-generator
+- https://golana.online/tool/fortune-cookie
+- https://golana.online/tool/would-you-rather
+- https://golana.online/tool/truth-or-dare
 
 WhatsApp Business Tools:
-- https://golana.online/tool/wa-message-template
 - https://golana.online/tool/wa-quick-reply
 - https://golana.online/tool/wa-link-generator
-- https://golana.online/tool/wa-qr-code
 - https://golana.online/tool/wa-broadcast
 - https://golana.online/tool/wa-promo
 - https://golana.online/tool/wa-greeting
@@ -230,7 +204,6 @@ WhatsApp Business Tools:
 - https://golana.online/tool/wa-appointment
 - https://golana.online/tool/wa-order-form
 - https://golana.online/tool/wa-product-catalog
-- https://golana.online/tool/wa-customer-card
 - https://golana.online/tool/wa-survey
 - https://golana.online/tool/wa-feedback
 - https://golana.online/tool/wa-auto-reply
@@ -238,27 +211,17 @@ WhatsApp Business Tools:
 - https://golana.online/tool/wa-sticker-text
 - https://golana.online/tool/wa-vcard
 - https://golana.online/tool/wa-chat-to-pdf
-- https://golana.online/tool/wa-scheduler
 - https://golana.online/tool/wa-chat-analyzer
-- https://golana.online/tool/wa-short-link-qr
-- https://golana.online/tool/wa-broadcast-scheduler
 - https://golana.online/tool/wa-faq-builder
 - https://golana.online/tool/wa-receipt
 - https://golana.online/tool/wa-event-invite
 - https://golana.online/tool/wa-poll
-- https://golana.online/tool/wa-team-broadcast
 - https://golana.online/tool/wa-price-quote
-- https://golana.online/tool/wa-link-gen2
-- https://golana.online/tool/wa-qr-gen2
 - https://golana.online/tool/wa-floating-button
-- https://golana.online/tool/wa-form-message
 - https://golana.online/tool/wa-message-templates
-- https://golana.online/tool/wa-link-shortener
 - https://golana.online/tool/wa-catalog-checker
 - https://golana.online/tool/wa-ban-diagnosis
 - https://golana.online/tool/wa-number-validator
-- https://golana.online/tool/wa-share-widget
-- https://golana.online/tool/wa-contact-card
 - https://golana.online/tool/wa-chat-shortcut
 - https://golana.online/tool/wa-status-formatter
 - https://golana.online/tool/wa-message-sequencer
@@ -281,6 +244,10 @@ Marketing & Web Content Creation Tools:
 - https://golana.online/tool/hashtag-generator
 - https://golana.online/tool/list-formatter
 - https://golana.online/tool/bullet-point-expander
+- https://golana.online/tool/business-name-generator
+- https://golana.online/tool/tagline-generator
+- https://golana.online/tool/tweet-generator
+- https://golana.online/tool/product-description-generator
 
 Education, Kids & Learning Tools:
 - https://golana.online/tool/flashcard-creator
@@ -288,7 +255,6 @@ Education, Kids & Learning Tools:
 - https://golana.online/tool/reading-timer
 - https://golana.online/tool/math-worksheet-generator
 - https://golana.online/tool/vocabulary-trainer
-- https://golana.online/tool/typing-practice
 - https://golana.online/tool/exam-countdown
 - https://golana.online/tool/essay-structure-analyzer
 - https://golana.online/tool/citation-formatter
@@ -303,7 +269,6 @@ Education, Kids & Learning Tools:
 - https://golana.online/tool/kids-drawing-pad
 - https://golana.online/tool/name-coloring-sheet-generator
 - https://golana.online/tool/reward-chart-generator
-- https://golana.online/tool/homework-timer
 - https://golana.online/tool/kids-routine-planner
 - https://golana.online/tool/kids-drawing-filter
 - https://golana.online/tool/daily-homework
@@ -331,11 +296,7 @@ Business Ops, HR & Employee Tools:
 - https://golana.online/tool/invoice-validator
 - https://golana.online/tool/inventory-forecast
 - https://golana.online/tool/profit-projection-tool
-- https://golana.online/tool/business-kpi-visualizer
-- https://golana.online/tool/shift-schedule
 - https://golana.online/tool/timesheet
-- https://golana.online/tool/work-hours
-- https://golana.online/tool/break-timer
 - https://golana.online/tool/attendance-tracker
 - https://golana.online/tool/onboarding-checklist
 
@@ -345,6 +306,18 @@ Apps:
 - https://golana.online/tool/resume-formatter
 - https://golana.online/tool/wa-client-manager
 - https://golana.online/tool/office-suite-local
+
+Life Simulation Tools:
+- https://golana.online/tool/consequence-machine
+- https://golana.online/tool/what-if-universe
+- https://golana.online/tool/internet-missing-manual
+- https://golana.online/tool/life-cost-revealer
+- https://golana.online/tool/personal-time-capsule
+- https://golana.online/tool/explain-by-changing
+- https://golana.online/tool/instant-experience-generator
+- https://golana.online/tool/hidden-options-finder
+- https://golana.online/tool/time-debt-calculator
+- https://golana.online/tool/internet-honesty-checker
 
 Crypto Tools:
 - https://golana.online/tool/crypto-portfolio
