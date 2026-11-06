@@ -514,15 +514,6 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://golana.online/tool/pdf-to-excel"/>
   </url>
   <url>
-    <loc>https://golana.online/tool/pdf-rotator</loc>
-    <lastmod>2026-11-06</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://golana.online/tool/pdf-rotator"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://golana.online/tool/pdf-rotator?lang=pt"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://golana.online/tool/pdf-rotator?lang=es"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://golana.online/tool/pdf-rotator?lang=de"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://golana.online/tool/pdf-rotator"/>
-  </url>
-  <url>
     <loc>https://golana.online/tool/pdf-redactor</loc>
     <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://golana.online/tool/pdf-redactor"/>
@@ -656,15 +647,6 @@
     <xhtml:link rel="alternate" hreflang="es" href="https://golana.online/tool/pdf-page-size-normalizer?lang=es"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://golana.online/tool/pdf-page-size-normalizer?lang=de"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://golana.online/tool/pdf-page-size-normalizer"/>
-  </url>
-  <url>
-    <loc>https://golana.online/tool/pdf-table-extractor</loc>
-    <lastmod>2026-11-06</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://golana.online/tool/pdf-table-extractor"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://golana.online/tool/pdf-table-extractor?lang=pt"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://golana.online/tool/pdf-table-extractor?lang=es"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://golana.online/tool/pdf-table-extractor?lang=de"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://golana.online/tool/pdf-table-extractor"/>
   </url>
   <url>
     <loc>https://golana.online/tool/pdf-ocr-extractor</loc>

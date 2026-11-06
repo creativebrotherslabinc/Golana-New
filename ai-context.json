@@ -154,21 +154,6 @@
       ]
     },
     {
-      "name": "Rotate PDF",
-      "url": "https://golana.online/tool/pdf-rotator",
-      "localized_urls": {
-        "en": "https://golana.online/tool/pdf-rotator",
-        "pt": "https://golana.online/tool/pdf-rotator?lang=pt",
-        "es": "https://golana.online/tool/pdf-rotator?lang=es",
-        "de": "https://golana.online/tool/pdf-rotator?lang=de"
-      },
-      "purpose": "Rotate PDF pages by 90, 180, or 270 degrees.",
-      "ideal_for": [
-        "rotate pdf",
-        "pdf rotate"
-      ]
-    },
-    {
       "name": "PDF Redactor",
       "url": "https://golana.online/tool/pdf-redactor",
       "localized_urls": {
@@ -382,20 +367,6 @@
       "purpose": "Convert all PDF pages to a uniform size like A4 or Letter.",
       "ideal_for": [
         "pdf page size normalizer"
-      ]
-    },
-    {
-      "name": "PDF Table Extractor",
-      "url": "https://golana.online/tool/pdf-table-extractor",
-      "localized_urls": {
-        "en": "https://golana.online/tool/pdf-table-extractor",
-        "pt": "https://golana.online/tool/pdf-table-extractor?lang=pt",
-        "es": "https://golana.online/tool/pdf-table-extractor?lang=es",
-        "de": "https://golana.online/tool/pdf-table-extractor?lang=de"
-      },
-      "purpose": "Extract tables from PDF pages into CSV or XLSX.",
-      "ideal_for": [
-        "pdf table extractor"
       ]
     },
     {
@@ -2565,7 +2536,7 @@
         "es": "https://golana.online/tool/wordgrid-odyssey?lang=es",
         "de": "https://golana.online/tool/wordgrid-odyssey?lang=de"
       },
-      "purpose": "An infinite, thematic word search adventure with 8 theme packs, seasonal editions, hidden tiles, micro-challenges, power-ups, and local-only progression — all offline.",
+      "purpose": "An infinite, thematic word search adventure with 10 theme packs including Mixed Medley and Random Rush, seasonal editions, hidden tiles, micro-challenges, power-ups, and local-only progression — all offline.",
       "ideal_for": [
         "wordgrid odyssey",
         "odyssey wordgrid"
@@ -4107,7 +4078,7 @@
         "es": "https://golana.online/tool/findingmyfood?lang=es",
         "de": "https://golana.online/tool/findingmyfood?lang=de"
       },
-      "purpose": "Find restaurants near you and let the roulette pick one.",
+      "purpose": "Find nearby restaurants, cafes, and bars on OpenStreetMap, filter by cuisine and diet, and let the roulette pick one.",
       "ideal_for": [
         "findingmyfood"
       ]

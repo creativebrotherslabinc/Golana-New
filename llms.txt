@@ -16,7 +16,6 @@
 - [Images to PDF](https://golana.online/tool/images-to-pdf): Combine images into a single PDF.
 - [PDF to Images](https://golana.online/tool/pdf-to-images): Export each PDF page as an image.
 - [PDF to Excel](https://golana.online/tool/pdf-to-excel): Convert PDF tables into an Excel file.
-- [Rotate PDF](https://golana.online/tool/pdf-rotator): Rotate PDF pages by 90, 180, or 270 degrees.
 - [PDF Redactor](https://golana.online/tool/pdf-redactor): Black out sensitive information before sharing.
 - [PDF Metadata Cleaner](https://golana.online/tool/pdf-metadata-cleaner): Remove hidden metadata from PDF files.
 - [PDF Form Filler](https://golana.online/tool/pdf-form-filler): Fill PDF form fields and add a signature in your browser.
@@ -32,7 +31,6 @@
 - [Crop PDF](https://golana.online/tool/pdf-crop): Crop PDF pages by a fixed margin or auto-trim white borders.
 - [Organize PDF](https://golana.online/tool/pdf-organize): Reorder, delete, or rotate pages in a PDF.
 - [PDF Page Size Normalizer](https://golana.online/tool/pdf-page-size-normalizer): Convert all PDF pages to a uniform size like A4 or Letter.
-- [PDF Table Extractor](https://golana.online/tool/pdf-table-extractor): Extract tables from PDF pages into CSV or XLSX.
 - [PDF OCR Extractor](https://golana.online/tool/pdf-ocr-extractor): Extract text from scanned PDFs using browser-based OCR.
 - [PDF Signature Verifier](https://golana.online/tool/pdf-signature-verifier): Verify digital signatures and certificate details in a PDF.
 - [PDF Compare](https://golana.online/tool/pdf-compare): Compare two PDFs side-by-side and highlight differences.
@@ -192,7 +190,7 @@
 - [Guess Game](https://golana.online/tool/golana-guess-game): A Heads-Up-style party guessing game with tilt controls, 9 categories, and 4 languages.
 - [Circuit Realms](https://golana.online/tool/circuit-realms): Connect energy sources to crystals by rotating path tiles. 30 levels across 3 difficulties, a shard reward system, and an in-game shop — all offline.
 - [BloomRush](https://golana.online/tool/bloomrush): An infinite plant-growth match-3 puzzle game. Swap nature tiles, grow plants through 7 stages, unlock 16 plant worlds with unique mechanics, earn coins, and buy 10 power-ups with dynamic shop pricing — all offline. 16 plant worlds, 7 growth stages, offline play, profile export and import. Earn coins by completing levels and spend them on 10 power-ups in the shop. Each power-up becomes 20% more expensive after each purchase, rounded to a clean coin amount, and caps at 2.5 times its base price.
-- [WordGrid Odyssey](https://golana.online/tool/wordgrid-odyssey): An infinite, thematic word search adventure with 8 theme packs, seasonal editions, hidden tiles, micro-challenges, power-ups, and local-only progression — all offline.
+- [WordGrid Odyssey](https://golana.online/tool/wordgrid-odyssey): An infinite, thematic word search adventure with 10 theme packs including Mixed Medley and Random Rush, seasonal editions, hidden tiles, micro-challenges, power-ups, and local-only progression — all offline.
 - [Name Generator](https://golana.online/tool/name-generator): Generate creative names.
 - [Joke Generator](https://golana.online/tool/joke-generator): Get a quick random joke.
 - [Story Generator](https://golana.online/tool/story-generator): Spin up a short story.
@@ -315,7 +313,7 @@
 
 ## Apps
 
-- [FindingMyFood](https://golana.online/tool/findingmyfood): Find restaurants near you and let the roulette pick one.
+- [FindingMyFood](https://golana.online/tool/findingmyfood): Find nearby restaurants, cafes, and bars on OpenStreetMap, filter by cuisine and diet, and let the roulette pick one.
 - [Resume Builder](https://golana.online/tool/resume-genie): Build a clean resume and export it.
 - [Resume Formatter](https://golana.online/tool/resume-formatter): Format resume text into clean templates and export as PDF.
 - [WhatsApp Client Manager](https://golana.online/tool/wa-client-manager): A complete browser-only CRM-style organizer for WhatsApp clients, with private backup/restore, stored entirely on your device.

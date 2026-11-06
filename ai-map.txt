@@ -13,7 +13,6 @@ PDF & Document Tools:
 - https://golana.online/tool/images-to-pdf
 - https://golana.online/tool/pdf-to-images
 - https://golana.online/tool/pdf-to-excel
-- https://golana.online/tool/pdf-rotator
 - https://golana.online/tool/pdf-redactor
 - https://golana.online/tool/pdf-metadata-cleaner
 - https://golana.online/tool/pdf-form-filler
@@ -29,7 +28,6 @@ PDF & Document Tools:
 - https://golana.online/tool/pdf-crop
 - https://golana.online/tool/pdf-organize
 - https://golana.online/tool/pdf-page-size-normalizer
-- https://golana.online/tool/pdf-table-extractor
 - https://golana.online/tool/pdf-ocr-extractor
 - https://golana.online/tool/pdf-signature-verifier
 - https://golana.online/tool/pdf-compare
