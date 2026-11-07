@@ -183,6 +183,7 @@ Games & Fun:
 - https://golana.online/tool/circuit-realms
 - https://golana.online/tool/bloomrush
 - https://golana.online/tool/wordgrid-odyssey
+- https://golana.online/tool/pattern-pulse
 - https://golana.online/tool/name-generator
 - https://golana.online/tool/joke-generator
 - https://golana.online/tool/story-generator
@@ -328,4 +329,7 @@ Crypto Tools:
 - https://golana.online/tool/crypto-live
 - https://golana.online/tool/crypto-chart
 - https://golana.online/tool/crypto-inflation
+
+GoLana Explorer:
+- https://golana.online/tool/shopping-scout
 
