@@ -1,6 +1,6 @@
 {
   "site": "https://golana.online",
-  "last_updated": "2026-11-07",
+  "last_updated": "2026-11-11",
   "description": "Golana.online provides free, browser-based tools for PDF editing, document conversion, calculators, media editing, developer utilities, games, WhatsApp business, HR, marketing, education, health, and more. All tools run entirely in the browser with no installation required.",
   "available_languages": [
     {
@@ -2558,6 +2558,20 @@
       ]
     },
     {
+      "name": "PERCEPTA",
+      "url": "https://golana.online/tool/percepta",
+      "localized_urls": {
+        "en": "https://golana.online/tool/percepta",
+        "pt": "https://golana.online/tool/percepta?lang=pt",
+        "es": "https://golana.online/tool/percepta?lang=es",
+        "de": "https://golana.online/tool/percepta?lang=de"
+      },
+      "purpose": "A visual perception puzzle game with 25 themed worlds, 500+ levels, boss battles, daily challenges, seeded levels, a skill tree, cosmetics shop, achievements, mythic encounters, and local backup — all offline.",
+      "ideal_for": [
+        "percepta"
+      ]
+    },
+    {
       "name": "Name Generator",
       "url": "https://golana.online/tool/name-generator",
       "localized_urls": {
@@ -4441,20 +4455,6 @@
       "ideal_for": [
         "crypto inflation calculator",
         "calculate crypto inflation"
-      ]
-    },
-    {
-      "name": "AI Shopping Scout",
-      "url": "https://golana.online/tool/shopping-scout",
-      "localized_urls": {
-        "en": "https://golana.online/tool/shopping-scout",
-        "pt": "https://golana.online/tool/shopping-scout?lang=pt",
-        "es": "https://golana.online/tool/shopping-scout?lang=es",
-        "de": "https://golana.online/tool/shopping-scout?lang=de"
-      },
-      "purpose": "Describe what you want in plain words and get ranked product recommendations with AI explanations — fully private, no tracking.",
-      "ideal_for": [
-        "ai shopping scout"
       ]
     }
   ],

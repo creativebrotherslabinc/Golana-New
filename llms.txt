@@ -192,6 +192,7 @@
 - [BloomRush](https://golana.online/tool/bloomrush): An infinite plant-growth match-3 puzzle game. Swap nature tiles, grow plants through 7 stages, unlock 16 plant worlds with unique mechanics, earn coins, and buy 10 power-ups with dynamic shop pricing — all offline. 16 plant worlds, 7 growth stages, offline play, profile export and import. Earn coins by completing levels and spend them on 10 power-ups in the shop. Each power-up becomes 20% more expensive after each purchase, rounded to a clean coin amount, and caps at 2.5 times its base price.
 - [WordGrid Odyssey](https://golana.online/tool/wordgrid-odyssey): An infinite, thematic word search adventure with 10 theme packs including Mixed Medley and Random Rush, seasonal editions, hidden tiles, micro-challenges, power-ups, and local-only progression — all offline.
 - [Pattern Pulse](https://golana.online/tool/pattern-pulse): An infinite pattern-completion puzzle game with 7 pattern families, seeded levels, stars, a stars-only shop, daily and weekly challenges, quests, boss levels, local export/import, and 4-language support — all offline.
+- [PERCEPTA](https://golana.online/tool/percepta): A visual perception puzzle game with 25 themed worlds, 500+ levels, boss battles, daily challenges, seeded levels, a skill tree, cosmetics shop, achievements, mythic encounters, and local backup — all offline.
 - [Name Generator](https://golana.online/tool/name-generator): Generate creative names.
 - [Joke Generator](https://golana.online/tool/joke-generator): Get a quick random joke.
 - [Story Generator](https://golana.online/tool/story-generator): Spin up a short story.
@@ -345,8 +346,4 @@
 - [Live Crypto Price Viewer](https://golana.online/tool/crypto-live): View live crypto prices for major coins across multiple currencies.
 - [Crypto Historical Price Chart](https://golana.online/tool/crypto-chart): View historical price charts for BTC and ETH over time.
 - [Crypto Inflation Calculator](https://golana.online/tool/crypto-inflation): Explore BTC halving schedules and ETH issuance rates.
-
-## GoLana Explorer
-
-- [AI Shopping Scout](https://golana.online/tool/shopping-scout): Describe what you want in plain words and get ranked product recommendations with AI explanations — fully private, no tracking.
 
