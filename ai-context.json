@@ -1,6 +1,6 @@
 {
   "site": "https://golana.online",
-  "last_updated": "2026-11-12",
+  "last_updated": "2026-11-13",
   "description": "Golana.online provides free, browser-based tools for PDF editing, document conversion, calculators, media editing, developer utilities, games, WhatsApp business, HR, marketing, education, health, and more. All tools run entirely in the browser with no installation required.",
   "available_languages": [
     {
@@ -1718,6 +1718,36 @@
       "ideal_for": [
         "resume bullets",
         "bullets resume"
+      ]
+    },
+    {
+      "name": "Resume Builder",
+      "url": "https://golana.online/tool/resume-genie",
+      "localized_urls": {
+        "en": "https://golana.online/tool/resume-genie",
+        "pt": "https://golana.online/tool/resume-genie?lang=pt",
+        "es": "https://golana.online/tool/resume-genie?lang=es",
+        "de": "https://golana.online/tool/resume-genie?lang=de"
+      },
+      "purpose": "Build a clean resume and export it.",
+      "ideal_for": [
+        "resume builder",
+        "builder resume"
+      ]
+    },
+    {
+      "name": "Resume Formatter",
+      "url": "https://golana.online/tool/resume-formatter",
+      "localized_urls": {
+        "en": "https://golana.online/tool/resume-formatter",
+        "pt": "https://golana.online/tool/resume-formatter?lang=pt",
+        "es": "https://golana.online/tool/resume-formatter?lang=es",
+        "de": "https://golana.online/tool/resume-formatter?lang=de"
+      },
+      "purpose": "Format resume text into clean templates and export as PDF.",
+      "ideal_for": [
+        "resume formatter",
+        "formatter resume"
       ]
     },
     {
@@ -4110,36 +4140,6 @@
       "purpose": "Find nearby restaurants, cafes, and bars on OpenStreetMap, filter by cuisine and diet, and let the roulette pick one.",
       "ideal_for": [
         "findingmyfood"
-      ]
-    },
-    {
-      "name": "Resume Builder",
-      "url": "https://golana.online/tool/resume-genie",
-      "localized_urls": {
-        "en": "https://golana.online/tool/resume-genie",
-        "pt": "https://golana.online/tool/resume-genie?lang=pt",
-        "es": "https://golana.online/tool/resume-genie?lang=es",
-        "de": "https://golana.online/tool/resume-genie?lang=de"
-      },
-      "purpose": "Build a clean resume and export it.",
-      "ideal_for": [
-        "resume builder",
-        "builder resume"
-      ]
-    },
-    {
-      "name": "Resume Formatter",
-      "url": "https://golana.online/tool/resume-formatter",
-      "localized_urls": {
-        "en": "https://golana.online/tool/resume-formatter",
-        "pt": "https://golana.online/tool/resume-formatter?lang=pt",
-        "es": "https://golana.online/tool/resume-formatter?lang=es",
-        "de": "https://golana.online/tool/resume-formatter?lang=de"
-      },
-      "purpose": "Format resume text into clean templates and export as PDF.",
-      "ideal_for": [
-        "resume formatter",
-        "formatter resume"
       ]
     },
     {

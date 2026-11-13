@@ -130,6 +130,8 @@
 
 - [Text Summarizer](https://golana.online/tool/summarizer): Shorten text to key points.
 - [Resume Bullets](https://golana.online/tool/resume-bullets): Draft strong resume bullets.
+- [Resume Builder](https://golana.online/tool/resume-genie): Build a clean resume and export it.
+- [Resume Formatter](https://golana.online/tool/resume-formatter): Format resume text into clean templates and export as PDF.
 - [Text Rewriter](https://golana.online/tool/text-rewriter): Rewrite text in simplify, academic, or persuasive styles.
 
 ## Developer Tools
@@ -313,11 +315,9 @@
 - [Attendance Tracker](https://golana.online/tool/attendance-tracker): Track who showed up, late, or absent.
 - [Employee Onboarding Checklist](https://golana.online/tool/onboarding-checklist): Manage onboarding tasks for new hires.
 
-## Apps
+## Smart Apps & Beyond
 
 - [FindingMyFood](https://golana.online/tool/findingmyfood): Find nearby restaurants, cafes, and bars on OpenStreetMap, filter by cuisine and diet, and let the roulette pick one.
-- [Resume Builder](https://golana.online/tool/resume-genie): Build a clean resume and export it.
-- [Resume Formatter](https://golana.online/tool/resume-formatter): Format resume text into clean templates and export as PDF.
 - [WhatsApp Client Manager](https://golana.online/tool/wa-client-manager): A complete browser-only CRM-style organizer for WhatsApp clients, with private backup/restore, stored entirely on your device.
 - [Local Office Suite](https://golana.online/tool/office-suite-local): A simple, local-only office suite for small documents, spreadsheets, and presentations. Everything stays on your device.
 

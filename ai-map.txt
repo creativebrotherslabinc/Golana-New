@@ -124,6 +124,8 @@ Finance, Planning & Everyday Utilities Tools:
 Text & Writing:
 - https://golana.online/tool/summarizer
 - https://golana.online/tool/resume-bullets
+- https://golana.online/tool/resume-genie
+- https://golana.online/tool/resume-formatter
 - https://golana.online/tool/text-rewriter
 
 Developer Tools:
@@ -300,10 +302,8 @@ Business Ops, HR & Employee Tools:
 - https://golana.online/tool/attendance-tracker
 - https://golana.online/tool/onboarding-checklist
 
-Apps:
+Smart Apps & Beyond:
 - https://golana.online/tool/findingmyfood
-- https://golana.online/tool/resume-genie
-- https://golana.online/tool/resume-formatter
 - https://golana.online/tool/wa-client-manager
 - https://golana.online/tool/office-suite-local
 
