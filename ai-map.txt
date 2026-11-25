@@ -187,6 +187,10 @@ Games & Fun:
 - https://golana.online/tool/wordgrid-odyssey
 - https://golana.online/tool/pattern-pulse
 - https://golana.online/tool/percepta
+- https://golana.online/tool/aurelith
+- https://golana.online/tool/lana
+- https://golana.online/tool/swap-puzzle
+- https://golana.online/tool/ball-quest
 - https://golana.online/tool/name-generator
 - https://golana.online/tool/joke-generator
 - https://golana.online/tool/story-generator
